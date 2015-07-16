@@ -1,0 +1,5 @@
+processing time : 1:06 h:m
+
+found issues:
+final text corrupted:
+incorrect bytes insead of unicode symbols (all cyrillic symbols replaced with one-byte sequences)
