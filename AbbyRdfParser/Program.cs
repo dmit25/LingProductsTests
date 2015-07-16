@@ -16,7 +16,7 @@ namespace AbbyRdfParser
             var model = new EntitiesCorpus();
             var doc =
                 XDocument.Parse(
-                    File.ReadAllText(@"rdf_IE_2.0.xml"));
+                    File.ReadAllText(@"rdf_IE_2.0_ru.xml"));
             var root = doc.Root;
             var rdfnamespace = XNamespace.Get("http://www.w3.org/1999/02/22-rdf-syntax-ns#");
             var auxnamespace = XNamespace.Get("http://www.abbyy.com/ns/Aux#");
@@ -99,7 +99,7 @@ namespace AbbyRdfParser
                     }
                 }
             }
-            File.WriteAllText("testmodeleng_abby.txt", model.Render());
+            File.WriteAllText("modelsall_abby.txt", model.Render());
             Console.ReadLine();
         }
 
