@@ -1,4 +1,0 @@
-processing time : 7:08 h:m
-
-found issues:
-final text is corrupted (ending spaces added, ellipsis sign replaced with "...", some kind of byte-mess)

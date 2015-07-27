@@ -1,3 +1,0 @@
-processing time 90s (4 cores)
-
-found issues - default numerics recognition module hangs for infinite amount of time

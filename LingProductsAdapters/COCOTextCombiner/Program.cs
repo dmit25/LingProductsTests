@@ -11,7 +11,29 @@ namespace COCOTextCombiner
     {
         static void Main(string[] args)
         {
-            var files = Directory.EnumerateFiles("texts", "*", SearchOption.AllDirectories).ToArray();
+            var outDir = @"E:\tmp\ibm\COCA\pieces";
+            Directory.CreateDirectory(outDir);
+            foreach (var category in Directory.EnumerateDirectories(@"E:\tmp\ibm\COCA\texts"))
+            {
+                var name = Path.GetFileName(category);
+                Directory.CreateDirectory(Path.Combine(outDir, name));
+                foreach (var file in Directory.EnumerateFiles(category))
+                {
+                    foreach (var line in File.ReadAllLines(file))
+                    {
+                        if (!string.IsNullOrWhiteSpace(line))
+                        {
+                            File.WriteAllText(Path.Combine(outDir, name, Guid.NewGuid() + ".txt"), line);
+                        }
+                    }
+                }
+            }
+
+        }
+
+        private static void GenerateRandomSample()
+        {
+            var files = Directory.EnumerateFiles(@"texts\text_newspaper_lsp", "*", SearchOption.AllDirectories).ToArray();
             Directory.CreateDirectory("result");
             var indexRandomizer = new Random();
             var linesRandomizer = new Random();

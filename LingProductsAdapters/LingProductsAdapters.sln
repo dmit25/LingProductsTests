@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COCOTextExtractor", "COCOTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COCOTextCombiner", "COCOTextCombiner\COCOTextCombiner.csproj", "{D69B8591-EDDC-4138-AD53-FCCCE2FF25D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COCOTextMerger", "COCOTextMerger\COCOTextMerger.csproj", "{D267F2DF-9B70-4059-85F4-4C66B1FB4B60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D69B8591-EDDC-4138-AD53-FCCCE2FF25D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D69B8591-EDDC-4138-AD53-FCCCE2FF25D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D69B8591-EDDC-4138-AD53-FCCCE2FF25D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D267F2DF-9B70-4059-85F4-4C66B1FB4B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D267F2DF-9B70-4059-85F4-4C66B1FB4B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D267F2DF-9B70-4059-85F4-4C66B1FB4B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D267F2DF-9B70-4059-85F4-4C66B1FB4B60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

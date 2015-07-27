@@ -1,3 +1,0 @@
-processing time 155 s
-
-found issues - unable to work with unicode (cp1251 only)

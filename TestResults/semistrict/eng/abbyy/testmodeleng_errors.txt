@@ -1,0 +1,2858 @@
+
+#####################################################################################################
+###################################MATCHES###########################################################
+#####################################################################################################
+54 - 77, <Org>
+239 - 252, <Person>
+344 - 356, <Org>
+673 - 675, <Location>
+800 - 810, <Location>
+838 - 858, <Person>
+988 - 1059, <Org>
+1008 - 1059, <Org>
+1024 - 1059, <Org>
+1040 - 1059, <Org>
+1341 - 1349, <Org>
+1372 - 1376, <Org>
+1516 - 1527, <Location>
+1544 - 1552, <Location>
+1757 - 1773, <Org>
+1802 - 1814, <Location>
+1867 - 1875, <Org>
+2166 - 2171, <Org>
+2364 - 2381, <Location>
+2431 - 2442, <Person>
+2536 - 2562, <Org>
+2714 - 2722, <Person>
+2866 - 2880, <Location>
+2899 - 2917, <Person>
+3150 - 3176, <Location>
+3150 - 3176, <Location>
+3335 - 3355, <Location>
+3418 - 3427, <Location>
+3432 - 3437, <Location>
+3489 - 3505, <Location>
+3561 - 3573, <Location>
+3666 - 3673, <Location>
+3945 - 3951, <Location>
+4128 - 4134, <Location>
+5805 - 5827, <Org>
+6007 - 6025, <Location>
+6189 - 6202, <Org>
+6487 - 6500, <Person>
+6520 - 6558, <Org>
+6639 - 6675, <Org>
+7132 - 7143, <Person>
+7409 - 7427, <Person>
+7556 - 7572, <Person>
+8133 - 8151, <Location>
+10110 - 10145, <Org>
+10158 - 10188, <Org>
+10249 - 10262, <Person>
+10464 - 10467, <Org>
+10585 - 10602, <Org>
+10614 - 10624, <Org>
+10775 - 10798, <Org>
+11371 - 11385, <Person>
+11557 - 11577, <Org>
+11640 - 11644, <Org>
+11708 - 11719, <Location>
+11722 - 11732, <Location>
+11745 - 11755, <Person>
+11942 - 11954, <Person>
+12105 - 12116, <Person>
+12127 - 12133, <Person>
+12397 - 12406, <Person>
+12757 - 12769, <Person>
+13543 - 13546, <Org>
+13683 - 13687, <Org>
+13969 - 13986, <Org>
+14461 - 14488, <Location>
+15211 - 15218, <Org>
+16213 - 16230, <Person>
+16233 - 16245, <Person>
+18751 - 18755, <Person>
+18760 - 18769, <Person>
+19537 - 19547, <Person>
+19568 - 19579, <Org>
+19760 - 19766, <Org>
+19781 - 19790, <Location>
+19781 - 19803, <Location>
+19925 - 19940, <Org>
+19944 - 19957, <Location>
+19944 - 19970, <Location>
+20211 - 20220, <Org>
+20262 - 20269, <Location>
+20643 - 20659, <Org>
+20739 - 20747, <Location>
+20768 - 20788, <Org>
+20891 - 20898, <Location>
+21149 - 21156, <Location>
+21265 - 21274, <Org>
+21288 - 21325, <Org>
+21288 - 21325, <Org>
+21340 - 21352, <Org>
+21612 - 21617, <Location>
+21795 - 21806, <Org>
+21970 - 21986, <Org>
+22050 - 22065, <Org>
+22793 - 22809, <Org>
+22828 - 22832, <Org>
+22863 - 22879, <Org>
+22896 - 22900, <Org>
+23109 - 23128, <Org>
+23146 - 23180, <Org>
+23216 - 23237, <Org>
+23288 - 23298, <Location>
+23515 - 23544, <Org>
+23547 - 23554, <Location>
+23590 - 23596, <Location>
+23599 - 23604, <Location>
+23622 - 23639, <Org>
+23642 - 23647, <Location>
+23686 - 23702, <Org>
+23705 - 23712, <Location>
+23729 - 23748, <Org>
+23751 - 23758, <Location>
+24321 - 24332, <Person>
+24457 - 24466, <Person>
+24470 - 24475, <Person>
+24517 - 24530, <Person>
+24557 - 24574, <Person>
+24603 - 24611, <Person>
+24748 - 24756, <Person>
+24792 - 24800, <Person>
+24804 - 24809, <Person>
+24960 - 24974, <Person>
+25012 - 25018, <Person>
+25165 - 25168, <Org>
+25287 - 25292, <Location>
+25354 - 25367, <Org>
+25451 - 25460, <Location>
+25473 - 25482, <Location>
+25684 - 25698, <Location>
+25684 - 25706, <Location>
+25925 - 25953, <Org>
+26004 - 26014, <Location>
+26046 - 26049, <Org>
+26174 - 26190, <Org>
+26888 - 26891, <Org>
+27130 - 27144, <Person>
+27147 - 27158, <Person>
+27163 - 27176, <Person>
+27301 - 27318, <Location>
+27514 - 27526, <Person>
+27529 - 27542, <Person>
+27547 - 27561, <Person>
+28153 - 28180, <Org>
+28198 - 28207, <Location>
+28273 - 28281, <Location>
+28284 - 28292, <Location>
+28413 - 28429, <Person>
+28432 - 28440, <Person>
+28460 - 28472, <Person>
+28491 - 28504, <Person>
+28507 - 28520, <Person>
+28637 - 28648, <Person>
+28651 - 28667, <Person>
+28670 - 28682, <Person>
+28685 - 28698, <Person>
+28732 - 28746, <Person>
+28799 - 28818, <Org>
+28834 - 28848, <Person>
+28866 - 28879, <Person>
+28915 - 28926, <Person>
+29471 - 29483, <Person>
+29922 - 29944, <Org>
+30051 - 30059, <Org>
+30359 - 30370, <Org>
+30447 - 30454, <Location>
+30502 - 30527, <Org>
+30530 - 30551, <Org>
+30559 - 30572, <Person>
+30577 - 30588, <Org>
+30596 - 30608, <Person>
+31168 - 31183, <Location>
+31208 - 31215, <Location>
+31344 - 31351, <Location>
+31483 - 31503, <Location>
+31565 - 31588, <Location>
+31771 - 31777, <Location>
+32005 - 32018, <Person>
+32302 - 32308, <Person>
+32357 - 32368, <Location>
+32410 - 32428, <Org>
+32570 - 32577, <Person>
+32785 - 32803, <Location>
+32894 - 32905, <Person>
+32909 - 32915, <Location>
+32909 - 32928, <Location>
+33042 - 33069, <Person>
+33217 - 33229, <Person>
+33314 - 33325, <Location>
+33362 - 33371, <Person>
+33430 - 33450, <Person>
+33618 - 33628, <Person>
+33891 - 33909, <Person>
+33912 - 33933, <Person>
+33938 - 33955, <Person>
+34108 - 34115, <Org>
+34305 - 34325, <Person>
+34422 - 34437, <Person>
+34821 - 34826, <Location>
+34829 - 34836, <Location>
+34846 - 34854, <Location>
+34929 - 34935, <Location>
+34956 - 34961, <Location>
+36504 - 36519, <Person>
+37347 - 37359, <Person>
+37488 - 37510, <Location>
+37754 - 37773, <Location>
+38207 - 38218, <Person>
+38570 - 38584, <Org>
+38610 - 38623, <Org>
+38709 - 38724, <Person>
+38836 - 38852, <Person>
+38856 - 38869, <Person>
+38892 - 38910, <Org>
+38964 - 38981, <Person>
+39138 - 39150, <Location>
+39270 - 39281, <Person>
+39643 - 39653, <Location>
+39657 - 39663, <Location>
+39708 - 39721, <Location>
+39760 - 39782, <Person>
+39806 - 39822, <Person>
+40127 - 40138, <Location>
+40141 - 40149, <Location>
+40158 - 40169, <Location>
+40358 - 40388, <Org>
+40414 - 40424, <Org>
+40433 - 40457, <Org>
+40517 - 40543, <Org>
+40556 - 40560, <Org>
+40697 - 40703, <Location>
+40719 - 40727, <Location>
+40730 - 40737, <Location>
+40921 - 40929, <Location>
+40967 - 40987, <Org>
+41127 - 41133, <Location>
+41172 - 41180, <Location>
+41232 - 41252, <Org>
+41465 - 41473, <Person>
+41476 - 41481, <Person>
+41485 - 41491, <Location>
+41510 - 41533, <Org>
+42941 - 42944, <Org>
+43170 - 43205, <Org>
+44201 - 44221, <Org>
+44256 - 44274, <Org>
+44474 - 44480, <Location>
+44661 - 44705, <Org>
+44661 - 44705, <Org>
+44879 - 44885, <Location>
+46086 - 46100, <Person>
+46602 - 46613, <Person>
+46773 - 46779, <Location>
+46875 - 46898, <Org>
+46948 - 46972, <Org>
+47007 - 47027, <Org>
+47031 - 47038, <Location>
+47041 - 47046, <Location>
+47082 - 47100, <Org>
+47112 - 47120, <Location>
+47242 - 47263, <Location>
+47254 - 47263, <Location>
+47303 - 47318, <Org>
+47321 - 47330, <Location>
+47333 - 47335, <Location>
+47423 - 47430, <Location>
+47509 - 47522, <Person>
+47530 - 47535, <Person>
+47737 - 47750, <Location>
+47858 - 47871, <Person>
+48847 - 48884, <Org>
+50447 - 50459, <Person>
+50707 - 50737, <Org>
+50780 - 50801, <Org>
+51077 - 51105, <Org>
+51114 - 51165, <Org>
+51716 - 51722, <Person>
+51727 - 51733, <Person>
+52221 - 52236, <Location>
+52239 - 52246, <Location>
+52549 - 52560, <Org>
+52564 - 52575, <Location>
+52579 - 52590, <Location>
+53450 - 53468, <Person>
+53493 - 53505, <Person>
+53998 - 54011, <Org>
+54144 - 54168, <Org>
+54223 - 54227, <Org>
+54230 - 54238, <Org>
+54241 - 54262, <Org>
+54510 - 54521, <Person>
+54524 - 54539, <Person>
+54542 - 54553, <Person>
+54556 - 54567, <Person>
+54570 - 54584, <Person>
+54617 - 54620, <Org>
+54648 - 54651, <Org>
+55177 - 55182, <Location>
+55191 - 55201, <Location>
+55229 - 55234, <Location>
+56970 - 56977, <Location>
+57171 - 57180, <Org>
+58858 - 58870, <Org>
+59150 - 59162, <Person>
+59296 - 59302, <Location>
+59307 - 59317, <Location>
+59384 - 59403, <Location>
+59520 - 59528, <Location>
+59707 - 59713, <Location>
+59911 - 59925, <Location>
+59956 - 59964, <Location>
+60042 - 60048, <Location>
+60078 - 60088, <Location>
+60294 - 60302, <Person>
+60957 - 60970, <Location>
+61199 - 61207, <Location>
+61295 - 61303, <Location>
+61992 - 61999, <Location>
+62369 - 62383, <Location>
+62408 - 62422, <Location>
+62649 - 62662, <Location>
+62768 - 62774, <Location>
+62812 - 62819, <Location>
+62860 - 62868, <Location>
+63056 - 63069, <Person>
+63118 - 63138, <Person>
+63574 - 63576, <Location>
+63837 - 63850, <Person>
+63881 - 63887, <Location>
+63881 - 63896, <Location>
+63942 - 63948, <Location>
+63956 - 63960, <Org>
+63963 - 63968, <Org>
+63973 - 63988, <Org>
+64003 - 64022, <Org>
+64194 - 64208, <Org>
+64326 - 64342, <Org>
+64374 - 64377, <Org>
+64472 - 64483, <Location>
+64590 - 64600, <Location>
+64711 - 64713, <Location>
+64937 - 64964, <Org>
+65002 - 65011, <Location>
+65023 - 65034, <Person>
+65103 - 65116, <Person>
+65285 - 65291, <Org>
+65417 - 65432, <Location>
+65782 - 65794, <Person>
+66530 - 66543, <Location>
+66783 - 66793, <Org>
+66801 - 66816, <Person>
+67053 - 67067, <Person>
+67204 - 67220, <Org>
+67308 - 67347, <Org>
+67482 - 67495, <Person>
+67912 - 67924, <Person>
+68230 - 68245, <Org>
+68434 - 68462, <Org>
+68469 - 68494, <Org>
+68511 - 68540, <Org>
+68571 - 68584, <Location>
+68663 - 68690, <Org>
+68734 - 68750, <Person>
+69249 - 69255, <Location>
+69379 - 69385, <Location>
+69882 - 69894, <Person>
+69902 - 69919, <Org>
+70671 - 70692, <Location>
+70705 - 70713, <Location>
+71027 - 71049, <Person>
+71052 - 71062, <Person>
+71098 - 71130, <Org>
+71098 - 71130, <Org>
+71222 - 71256, <Org>
+71284 - 71290, <Location>
+71293 - 71300, <Location>
+71313 - 71319, <Location>
+71322 - 71329, <Location>
+71332 - 71343, <Location>
+71346 - 71357, <Location>
+71360 - 71368, <Location>
+71373 - 71378, <Location>
+71515 - 71521, <Location>
+71635 - 71645, <Location>
+71648 - 71650, <Location>
+71719 - 71731, <Location>
+71784 - 71787, <Org>
+72029 - 72035, <Location>
+72097 - 72114, <Location>
+72118 - 72132, <Location>
+72136 - 72141, <Location>
+72676 - 72681, <Location>
+73430 - 73440, <Location>
+73468 - 73478, <Location>
+73519 - 73540, <Org>
+73572 - 73603, <Org>
+73772 - 73812, <Org>
+73945 - 73977, <Org>
+74017 - 74032, <Org>
+74082 - 74087, <Location>
+74430 - 74440, <Location>
+75088 - 75093, <Location>
+75204 - 75212, <Location>
+75263 - 75272, <Location>
+75508 - 75517, <Person>
+75571 - 75581, <Person>
+75586 - 75599, <Person>
+75632 - 75647, <Location>
+76164 - 76173, <Person>
+76218 - 76222, <Person>
+76237 - 76243, <Org>
+76283 - 76294, <Person>
+76299 - 76314, <Person>
+76362 - 76379, <Org>
+76540 - 76545, <Location>
+76688 - 76698, <Person>
+76963 - 76981, <Location>
+78319 - 78334, <Person>
+78386 - 78407, <Person>
+78502 - 78506, <Org>
+78680 - 78688, <Person>
+78763 - 78781, <Person>
+78853 - 78868, <Person>
+78886 - 78896, <Location>
+79495 - 79502, <Person>
+79513 - 79529, <Person>
+80309 - 80331, <Person>
+80427 - 80439, <Person>
+80682 - 80694, <Location>
+80712 - 80725, <Location>
+80825 - 80833, <Location>
+80836 - 80846, <Location>
+81028 - 81034, <Location>
+81037 - 81047, <Location>
+81054 - 81060, <Location>
+81115 - 81129, <Person>
+81132 - 81144, <Person>
+81147 - 81161, <Person>
+81168 - 81181, <Person>
+81214 - 81224, <Person>
+81227 - 81244, <Person>
+81247 - 81259, <Person>
+81291 - 81305, <Person>
+81413 - 81421, <Person>
+81526 - 81540, <Person>
+81583 - 81599, <Person>
+81604 - 81623, <Person>
+81641 - 81656, <Person>
+81661 - 81675, <Person>
+82241 - 82257, <Org>
+82261 - 82269, <Location>
+82328 - 82337, <Location>
+82328 - 82352, <Org>
+82426 - 82437, <Location>
+82525 - 82549, <Org>
+82782 - 82791, <Person>
+82799 - 82824, <Org>
+82993 - 83016, <Org>
+83026 - 83033, <Org>
+84298 - 84310, <Location>
+84313 - 84325, <Location>
+84328 - 84331, <Location>
+84346 - 84355, <Location>
+84346 - 84368, <Location>
+84372 - 84389, <Person>
+84474 - 84481, <Org>
+84781 - 84792, <Person>
+84924 - 84954, <Org>
+84988 - 84997, <Location>
+86281 - 86287, <Location>
+86380 - 86388, <Location>
+86571 - 86576, <Location>
+86579 - 86587, <Location>
+86754 - 86770, <Person>
+87314 - 87320, <Person>
+87664 - 87670, <Location>
+88553 - 88557, <Person>
+88616 - 88622, <Person>
+88851 - 88857, <Location>
+89210 - 89216, <Person>
+89344 - 89353, <Location>
+90240 - 90252, <Person>
+90748 - 90754, <Person>
+91113 - 91119, <Person>
+92382 - 92388, <Person>
+93075 - 93080, <Location>
+93243 - 93251, <Location>
+93446 - 93455, <Location>
+94335 - 94340, <Location>
+94443 - 94464, <Location>
+94467 - 94474, <Location>
+94831 - 94846, <Location>
+95331 - 95337, <Location>
+95366 - 95380, <Person>
+95617 - 95629, <Location>
+95850 - 95857, <Location>
+95860 - 95865, <Location>
+95921 - 95929, <Org>
+95965 - 95984, <Org>
+96204 - 96211, <Location>
+96214 - 96221, <Location>
+96234 - 96251, <Org>
+96522 - 96533, <Org>
+96962 - 97014, <Org>
+97082 - 97094, <Org>
+97099 - 97111, <Org>
+97178 - 97198, <Org>
+97460 - 97468, <Location>
+97498 - 97509, <Person>
+97708 - 97714, <Location>
+97717 - 97724, <Location>
+97851 - 97864, <Person>
+97991 - 97998, <Location>
+98334 - 98344, <Org>
+98417 - 98430, <Org>
+99264 - 99271, <Location>
+99274 - 99280, <Location>
+99380 - 99402, <Org>
+99494 - 99500, <Location>
+99505 - 99512, <Location>
+99639 - 99643, <Person>
+100339 - 100342, <Org>
+100555 - 100561, <Location>
+100778 - 100789, <Org>
+100833 - 100860, <Org>
+100906 - 100912, <Location>
+100915 - 100919, <Location>
+100959 - 100966, <Org>
+100970 - 100980, <Location>
+101017 - 101040, <Person>
+101766 - 101801, <Location>
+101904 - 101914, <Location>
+101919 - 101924, <Location>
+101997 - 102023, <Org>
+102027 - 102035, <Location>
+102052 - 102064, <Location>
+102067 - 102074, <Location>
+102082 - 102122, <Org>
+102082 - 102122, <Org>
+102188 - 102190, <Location>
+102608 - 102630, <Org>
+102757 - 102778, <Org>
+102809 - 102813, <Location>
+102888 - 102901, <Person>
+103069 - 103079, <Location>
+103136 - 103146, <Location>
+103157 - 103163, <Location>
+103166 - 103173, <Location>
+103285 - 103303, <Location>
+103307 - 103316, <Location>
+103342 - 103364, <Location>
+103370 - 103375, <Location>
+103378 - 103385, <Location>
+103452 - 103492, <Location>
+103500 - 103508, <Location>
+103538 - 103545, <Location>
+103557 - 103570, <Location>
+103635 - 103655, <Location>
+103659 - 103683, <Org>
+103798 - 103818, <Location>
+103939 - 103954, <Location>
+103963 - 103971, <Location>
+104249 - 104257, <Location>
+104712 - 104719, <Location>
+106122 - 106135, <Location>
+106196 - 106209, <Location>
+106255 - 106272, <Location>
+106458 - 106468, <Location>
+106483 - 106517, <Location>
+106552 - 106574, <Location>
+107507 - 107512, <Location>
+107521 - 107535, <Location>
+107917 - 107931, <Person>
+108019 - 108025, <Location>
+108111 - 108117, <Location>
+109539 - 109548, <Location>
+110220 - 110240, <Org>
+110244 - 110252, <Location>
+110962 - 111002, <Org>
+111045 - 111052, <Location>
+111045 - 111071, <Location>
+111243 - 111263, <Person>
+111308 - 111318, <Person>
+111466 - 111481, <Location>
+111522 - 111530, <Location>
+111645 - 111674, <Org>
+112368 - 112380, <Org>
+112800 - 112820, <Person>
+112992 - 113015, <Location>
+112992 - 113028, <Location>
+113137 - 113140, <Org>
+113310 - 113317, <Person>
+113402 - 113408, <Person>
+114010 - 114015, <Person>
+114219 - 114224, <Person>
+114231 - 114242, <Person>
+114321 - 114332, <Org>
+114408 - 114418, <Person>
+114434 - 114439, <Person>
+114540 - 114555, <Person>
+114648 - 114663, <Person>
+114781 - 114788, <Location>
+114791 - 114801, <Location>
+114832 - 114849, <Location>
+115262 - 115274, <Location>
+115494 - 115506, <Person>
+115530 - 115540, <Location>
+115730 - 115740, <Location>
+116152 - 116157, <Org>
+116298 - 116309, <Person>
+116538 - 116544, <Location>
+116592 - 116594, <Location>
+116609 - 116621, <Location>
+116609 - 116631, <Location>
+116908 - 116913, <Person>
+116916 - 116924, <Person>
+116929 - 116940, <Person>
+117195 - 117206, <Person>
+117295 - 117309, <Person>
+117356 - 117359, <Org>
+117366 - 117397, <Org>
+117784 - 117798, <Person>
+117868 - 117875, <Location>
+117895 - 117916, <Org>
+118081 - 118087, <Person>
+118097 - 118109, <Location>
+118113 - 118125, <Person>
+118177 - 118186, <Location>
+118298 - 118308, <Org>
+118313 - 118323, <Person>
+118400 - 118415, <Person>
+118420 - 118433, <Person>
+118672 - 118683, <Person>
+118691 - 118705, <Person>
+119940 - 119953, <Person>
+120020 - 120039, <Location>
+120091 - 120103, <Person>
+120301 - 120314, <Person>
+120582 - 120596, <Org>
+120665 - 120672, <Location>
+120675 - 120684, <Location>
+120687 - 120692, <Location>
+120697 - 120703, <Location>
+120788 - 120799, <Person>
+122057 - 122074, <Org>
+122087 - 122097, <Person>
+122131 - 122134, <Org>
+122251 - 122259, <Person>
+122343 - 122352, <Location>
+122593 - 122623, <Org>
+122632 - 122650, <Org>
+122654 - 122670, <Person>
+123107 - 123120, <Location>
+123237 - 123247, <Person>
+123370 - 123381, <Person>
+123424 - 123441, <Person>
+123446 - 123455, <Person>
+123507 - 123516, <Location>
+123759 - 123777, <Org>
+123997 - 124005, <Location>
+124027 - 124034, <Location>
+124059 - 124072, <Location>
+124588 - 124599, <Person>
+124657 - 124663, <Person>
+124856 - 124859, <Org>
+125158 - 125170, <Person>
+125289 - 125297, <Location>
+125300 - 125304, <Location>
+125308 - 125331, <Person>
+125360 - 125375, <Location>
+125378 - 125386, <Location>
+125468 - 125471, <Org>
+125870 - 125880, <Person>
+126278 - 126286, <Location>
+126349 - 126360, <Person>
+126373 - 126385, <Person>
+126397 - 126410, <Person>
+126425 - 126437, <Person>
+126454 - 126466, <Person>
+126659 - 126671, <Person>
+126678 - 126691, <Person>
+126970 - 126978, <Person>
+127130 - 127135, <Person>
+127173 - 127188, <Person>
+127490 - 127507, <Org>
+127530 - 127534, <Location>
+127537 - 127551, <Location>
+127572 - 127575, <Org>
+127603 - 127620, <Org>
+127767 - 127776, <Org>
+127828 - 127838, <Org>
+127991 - 127998, <Org>
+128234 - 128237, <Org>
+128502 - 128515, <Person>
+128821 - 128834, <Location>
+129281 - 129284, <Org>
+129289 - 129293, <Org>
+129692 - 129701, <Org>
+129749 - 129754, <Org>
+129803 - 129823, <Location>
+129803 - 129823, <Location>
+129843 - 129871, <Location>
+129963 - 129978, <Org>
+130046 - 130051, <Org>
+130172 - 130179, <Org>
+130470 - 130496, <Org>
+130530 - 130548, <Location>
+130540 - 130548, <Location>
+131187 - 131205, <Person>
+131254 - 131265, <Location>
+131268 - 131277, <Location>
+131385 - 131410, <Org>
+131414 - 131422, <Location>
+131414 - 131434, <Location>
+132454 - 132466, <Person>
+132995 - 133005, <Person>
+133856 - 133871, <Org>
+133940 - 133954, <Person>
+134117 - 134126, <Person>
+134131 - 134142, <Person>
+134441 - 134448, <Location>
+135117 - 135125, <Location>
+135251 - 135257, <Location>
+135311 - 135317, <Location>
+135500 - 135506, <Location>
+135547 - 135565, <Person>
+135571 - 135575, <Location>
+135650 - 135654, <Location>
+135745 - 135752, <Location>
+135795 - 135814, <Org>
+135897 - 135908, <Org>
+136007 - 136030, <Org>
+136007 - 136030, <Org>
+136107 - 136142, <Location>
+136333 - 136364, <Org>
+136333 - 136364, <Org>
+136519 - 136530, <Location>
+136555 - 136559, <Location>
+136570 - 136587, <Org>
+136653 - 136668, <Person>
+136745 - 136754, <Org>
+136833 - 136848, <Person>
+137195 - 137203, <Location>
+137431 - 137436, <Location>
+137439 - 137445, <Location>
+137542 - 137555, <Person>
+137558 - 137571, <Person>
+137574 - 137579, <Person>
+137610 - 137624, <Person>
+137703 - 137709, <Location>
+137781 - 137807, <Org>
+138024 - 138042, <Person>
+138075 - 138097, <Org>
+138586 - 138597, <Person>
+138930 - 138948, <Person>
+139007 - 139011, <Location>
+139228 - 139248, <Org>
+139252 - 139260, <Location>
+139739 - 139755, <Person>
+139813 - 139844, <Org>
+139990 - 139998, <Location>
+140014 - 140026, <Person>
+140438 - 140450, <Person>
+140518 - 140528, <Org>
+140711 - 140723, <Person>
+140814 - 140829, <Org>
+141067 - 141081, <Location>
+141405 - 141420, <Person>
+143417 - 143428, <Person>
+143589 - 143610, <Person>
+143837 - 143846, <Location>
+143991 - 143999, <Location>
+144073 - 144099, <Location>
+144129 - 144150, <Location>
+144153 - 144162, <Location>
+144165 - 144167, <Location>
+144388 - 144405, <Org>
+144478 - 144484, <Location>
+144487 - 144509, <Location>
+144708 - 144730, <Location>
+144835 - 144874, <Org>
+144916 - 144952, <Org>
+144916 - 144952, <Org>
+145184 - 145220, <Org>
+145371 - 145385, <Location>
+145402 - 145410, <Location>
+145477 - 145490, <Location>
+145584 - 145623, <Org>
+145649 - 145674, <Org>
+145691 - 145698, <Org>
+145808 - 145828, <Org>
+145880 - 145913, <Org>
+146107 - 146129, <Org>
+146229 - 146247, <Person>
+146453 - 146467, <Person>
+146472 - 146484, <Person>
+146503 - 146515, <Person>
+146520 - 146533, <Person>
+146580 - 146598, <Person>
+146617 - 146632, <Person>
+146692 - 146705, <Person>
+146906 - 146922, <Org>
+146966 - 146980, <Person>
+147123 - 147143, <Person>
+147162 - 147169, <Person>
+147771 - 147778, <Location>
+147900 - 147907, <Location>
+147912 - 147919, <Location>
+148594 - 148608, <Person>
+149297 - 149341, <Org>
+149349 - 149362, <Location>
+149382 - 149389, <Location>
+149425 - 149441, <Location>
+149492 - 149499, <Location>
+149605 - 149612, <Location>
+149637 - 149642, <Location>
+149667 - 149672, <Location>
+149748 - 149759, <Location>
+149854 - 149863, <Location>
+150041 - 150053, <Location>
+151940 - 151978, <Org>
+151940 - 151978, <Org>
+152250 - 152271, <Org>
+152286 - 152293, <Location>
+152296 - 152303, <Location>
+152457 - 152470, <Location>
+152698 - 152710, <Person>
+152723 - 152737, <Org>
+152773 - 152781, <Location>
+152784 - 152794, <Location>
+153215 - 153232, <Location>
+153266 - 153284, <Location>
+153433 - 153441, <Location>
+153446 - 153457, <Location>
+153526 - 153571, <Org>
+153791 - 153797, <Location>
+154062 - 154115, <Org>
+154313 - 154322, <Location>
+154976 - 154978, <Location>
+155344 - 155347, <Org>
+155380 - 155382, <Location>
+155647 - 155649, <Location>
+155699 - 155712, <Location>
+155776 - 155791, <Org>
+155841 - 155847, <Location>
+155850 - 155854, <Location>
+155972 - 155979, <Location>
+156285 - 156287, <Location>
+156656 - 156658, <Location>
+156699 - 156701, <Location>
+156782 - 156790, <Person>
+157141 - 157146, <Location>
+157163 - 157173, <Location>
+157176 - 157181, <Location>
+157248 - 157257, <Location>
+157248 - 157266, <Location>
+157407 - 157411, <Location>
+157418 - 157425, <Location>
+157509 - 157532, <Org>
+157722 - 157747, <Org>
+157751 - 157757, <Person>
+157804 - 157811, <Location>
+157814 - 157827, <Location>
+157972 - 157984, <Org>
+158127 - 158134, <Org>
+158144 - 158149, <Location>
+158262 - 158268, <Org>
+158389 - 158400, <Person>
+158463 - 158470, <Location>
+158478 - 158498, <Org>
+158566 - 158586, <Location>
+158608 - 158617, <Person>
+158652 - 158672, <Person>
+158831 - 158852, <Person>
+159124 - 159132, <Location>
+159382 - 159390, <Location>
+159402 - 159414, <Person>
+159488 - 159508, <Org>
+159587 - 159610, <Org>
+159640 - 159660, <Org>
+159685 - 159702, <Person>
+159772 - 159789, <Org>
+159868 - 159884, <Person>
+159889 - 159900, <Person>
+160138 - 160144, <Location>
+160147 - 160154, <Location>
+160187 - 160200, <Person>
+160203 - 160216, <Person>
+160236 - 160251, <Person>
+160273 - 160279, <Location>
+160318 - 160325, <Location>
+160351 - 160366, <Person>
+160380 - 160386, <Location>
+160645 - 160653, <Org>
+160657 - 160669, <Org>
+161217 - 161221, <Location>
+161253 - 161260, <Location>
+161314 - 161320, <Location>
+161471 - 161499, <Org>
+161554 - 161559, <Person>
+161564 - 161574, <Person>
+161611 - 161622, <Org>
+161685 - 161717, <Org>
+161725 - 161754, <Org>
+162137 - 162144, <Org>
+162196 - 162205, <Org>
+162329 - 162336, <Org>
+162339 - 162345, <Org>
+163258 - 163282, <Org>
+163290 - 163325, <Org>
+163368 - 163532, <Org>
+163620 - 163632, <Person>
+163679 - 163701, <Org>
+163712 - 163721, <Location>
+163743 - 163768, <Org>
+163816 - 163836, <Org>
+164931 - 164950, <Org>
+164954 - 164984, <Org>
+164994 - 165028, <Org>
+165257 - 165270, <Person>
+165504 - 165510, <Location>
+165654 - 165667, <Person>
+166167 - 166186, <Org>
+166190 - 166199, <Location>
+166202 - 166214, <Location>
+166339 - 166353, <Org>
+166453 - 166477, <Org>
+166530 - 166545, <Person>
+166683 - 166694, <Person>
+167491 - 167498, <Person>
+167756 - 167763, <Location>
+167809 - 167817, <Location>
+167905 - 167915, <Person>
+167918 - 167930, <Person>
+168017 - 168026, <Person>
+168166 - 168173, <Org>
+169196 - 169227, <Org>
+169275 - 169285, <Org>
+169590 - 169600, <Org>
+169662 - 169663, <Person>
+169918 - 169933, <Person>
+169936 - 169947, <Person>
+169950 - 169959, <Person>
+169962 - 169978, <Person>
+169981 - 169992, <Person>
+170165 - 170174, <Location>
+170811 - 170819, <Location>
+170977 - 170984, <Location>
+171119 - 171132, <Person>
+171671 - 171687, <Person>
+171717 - 171725, <Org>
+171911 - 171920, <Location>
+172095 - 172102, <Location>
+172167 - 172179, <Person>
+172478 - 172483, <Person>
+172859 - 172870, <Location>
+173540 - 173551, <Org>
+173634 - 173646, <Person>
+173858 - 173869, <Location>
+174308 - 174313, <Location>
+174486 - 174492, <Location>
+174601 - 174606, <Location>
+174619 - 174625, <Location>
+174663 - 174676, <Location>
+174729 - 174743, <Location>
+174778 - 174784, <Location>
+175173 - 175180, <Location>
+175626 - 175638, <Person>
+175661 - 175676, <Person>
+176050 - 176059, <Location>
+176112 - 176118, <Location>
+176163 - 176171, <Org>
+176202 - 176222, <Org>
+176243 - 176249, <Person>
+176278 - 176291, <Org>
+176546 - 176548, <Location>
+176549 - 176585, <Org>
+177972 - 177986, <Person>
+177989 - 177991, <Location>
+178306 - 178318, <Location>
+178306 - 178326, <Location>
+178369 - 178375, <Location>
+178645 - 178662, <Location>
+180149 - 180164, <Person>
+180831 - 180842, <Person>
+181119 - 181151, <Org>
+182354 - 182366, <Org>
+182955 - 182976, <Person>
+182984 - 183002, <Person>
+183123 - 183129, <Location>
+183292 - 183302, <Person>
+183326 - 183338, <Person>
+183482 - 183508, <Org>
+183540 - 183562, <Person>
+183715 - 183722, <Person>
+183802 - 183807, <Person>
+183810 - 183819, <Person>
+183826 - 183834, <Person>
+184076 - 184081, <Location>
+184198 - 184204, <Person>
+184452 - 184463, <Person>
+184600 - 184617, <Location>
+184870 - 184883, <Person>
+184904 - 184914, <Person>
+184919 - 184933, <Person>
+185112 - 185120, <Person>
+185327 - 185343, <Person>
+185528 - 185534, <Person>
+185565 - 185587, <Person>
+185645 - 185662, <Person>
+185702 - 185707, <Person>
+185751 - 185758, <Person>
+186833 - 186841, <Person>
+187030 - 187044, <Person>
+187047 - 187056, <Person>
+187167 - 187186, <Person>
+187480 - 187484, <Person>
+187602 - 187611, <Person>
+187622 - 187627, <Person>
+187729 - 187740, <Person>
+188082 - 188094, <Person>
+188137 - 188146, <Location>
+188170 - 188183, <Location>
+188322 - 188335, <Location>
+188367 - 188373, <Location>
+188376 - 188388, <Location>
+188516 - 188529, <Person>
+188928 - 188932, <Location>
+188943 - 188960, <Person>
+189056 - 189068, <Person>
+189093 - 189096, <Location>
+189560 - 189571, <Person>
+189609 - 189620, <Person>
+189964 - 189975, <Person>
+189996 - 190007, <Person>
+190200 - 190205, <Person>
+190454 - 190467, <Person>
+190535 - 190547, <Person>
+190622 - 190637, <Person>
+190658 - 190670, <Person>
+190691 - 190703, <Person>
+190918 - 190928, <Person>
+191836 - 191845, <Person>
+191868 - 191882, <Person>
+192588 - 192597, <Location>
+192729 - 192738, <Location>
+192766 - 192781, <Person>
+192913 - 192930, <Location>
+192937 - 192946, <Location>
+192968 - 192977, <Location>
+193014 - 193027, <Org>
+193052 - 193058, <Location>
+193084 - 193093, <Location>
+193157 - 193166, <Location>
+193241 - 193254, <Org>
+193281 - 193284, <Org>
+193299 - 193307, <Location>
+193489 - 193498, <Location>
+193512 - 193529, <Location>
+193584 - 193593, <Location>
+193613 - 193622, <Location>
+193682 - 193691, <Location>
+193796 - 193805, <Location>
+193933 - 193944, <Location>
+194031 - 194038, <Location>
+194042 - 194061, <Org>
+194101 - 194120, <Location>
+194113 - 194120, <Location>
+194272 - 194326, <Org>
+194298 - 194300, <Location>
+194344 - 194361, <Org>
+194650 - 194670, <Person>
+194775 - 194789, <Person>
+194852 - 194874, <Org>
+195217 - 195230, <Person>
+195308 - 195314, <Location>
+195341 - 195347, <Location>
+195352 - 195361, <Location>
+195408 - 195428, <Person>
+195445 - 195459, <Person>
+195476 - 195499, <Person>
+195518 - 195546, <Person>
+195639 - 195645, <Location>
+195697 - 195715, <Org>
+195760 - 195780, <Org>
+195825 - 195844, <Org>
+196041 - 196055, <Person>
+196235 - 196255, <Org>
+197099 - 197112, <Org>
+197409 - 197422, <Person>
+198051 - 198058, <Location>
+198096 - 198107, <Person>
+198137 - 198150, <Person>
+198249 - 198262, <Person>
+198304 - 198319, <Person>
+198322 - 198327, <Person>
+198365 - 198380, <Person>
+198433 - 198443, <Person>
+198446 - 198456, <Person>
+198496 - 198498, <Org>
+198533 - 198541, <Location>
+199221 - 199228, <Location>
+199272 - 199280, <Location>
+199373 - 199381, <Location>
+199743 - 199758, <Location>
+199772 - 199778, <Location>
+199845 - 199851, <Location>
+199903 - 199917, <Org>
+200194 - 200204, <Person>
+200506 - 200520, <Person>
+200541 - 200547, <Location>
+200590 - 200602, <Person>
+200629 - 200642, <Location>
+200679 - 200689, <Location>
+200752 - 200758, <Location>
+200752 - 200765, <Location>
+200797 - 200803, <Org>
+200895 - 200903, <Org>
+201048 - 201066, <Person>
+201075 - 201079, <Location>
+201093 - 201097, <Location>
+201949 - 201963, <Person>
+202028 - 202038, <Person>
+202111 - 202117, <Location>
+202172 - 202183, <Person>
+202228 - 202233, <Location>
+202269 - 202287, <Person>
+202303 - 202315, <Person>
+202318 - 202322, <Person>
+202380 - 202418, <Org>
+202426 - 202470, <Org>
+202494 - 202501, <Location>
+202573 - 202592, <Location>
+202595 - 202602, <Location>
+202684 - 202698, <Person>
+202780 - 202806, <Org>
+203016 - 203036, <Org>
+203121 - 203144, <Org>
+203176 - 203229, <Org>
+203301 - 203316, <Person>
+203361 - 203423, <Org>
+203460 - 203489, <Org>
+203872 - 203882, <Location>
+203916 - 203923, <Location>
+204077 - 204080, <Org>
+204183 - 204190, <Location>
+206720 - 206724, <Person>
+207278 - 207284, <Person>
+208011 - 208025, <Location>
+208028 - 208036, <Location>
+208055 - 208061, <Org>
+208326 - 208345, <Location>
+208355 - 208365, <Location>
+208398 - 208408, <Location>
+208511 - 208527, <Location>
+208788 - 208794, <Location>
+208799 - 208806, <Location>
+208825 - 208842, <Location>
+208847 - 208886, <Org>
+208918 - 208934, <Location>
+209005 - 209015, <Location>
+209245 - 209255, <Location>
+209785 - 209810, <Org>
+209845 - 209869, <Location>
+209856 - 209869, <Location>
+209933 - 209960, <Org>
+210057 - 210085, <Org>
+210112 - 210143, <Org>
+210156 - 210178, <Org>
+210289 - 210335, <Org>
+210403 - 210441, <Org>
+210474 - 210482, <Person>
+210632 - 210635, <Org>
+210986 - 211036, <Org>
+211055 - 211065, <Location>
+211055 - 211081, <Location>
+211197 - 211246, <Org>
+211250 - 211266, <Org>
+211289 - 211305, <Person>
+211309 - 211335, <Person>
+
+
+#####################################################################################################
+###################################ERRORS############################################################
+#####################################################################################################
+'2491 - 2506, <Person> : Philip Sheridan' == '<NULL>'
+'4088 - 4100, <Person> : John Greiner' == '<NULL>'
+'8255 - 8261, <Person> : Hauser' == '<NULL>'
+'8451 - 8457, <Person> : Hauser' == '<NULL>'
+'8661 - 8672, <Person> : Edward Farr' == '<NULL>'
+'9257 - 9265, <Person> : Edward D' == '<NULL>'
+'9269 - 9273, <Person> : Farr' == '<NULL>'
+'9405 - 9421, <Person> : George F. Hauser' == '<NULL>'
+'9563 - 9575, <Person> : John Greiner' == '<NULL>'
+'9753 - 9764, <Person> : Edward Farr' == '<NULL>'
+'9889 - 9905, <Person> : George F. Hauser' == '<NULL>'
+'10663 - 10682, <Person> : Kory Lichtensteiger' == '<NULL>'
+'10695 - 10708, <Person> : Erique Dozier' == '<NULL>'
+'10713 - 10728, <Person> : Corey Partridge' == '<NULL>'
+'11758 - 11770, <Person> : Shannon Leto' == '<NULL>'
+'11773 - 11787, <Person> : Tomo Milicevic' == '<NULL>'
+'11810 - 11820, <Person> : Jared Leto' == '<NULL>'
+'11839 - 11846, <Person> : Shannon' == '<NULL>'
+'12218 - 12234, <Person> : Tomo MiliФeviФ' == '<NULL>'
+'12707 - 12712, <Person> : Jared' == '<NULL>'
+'14077 - 14089, <Person> : Matt Wachter' == '<NULL>'
+'14095 - 14100, <Person> : Jared' == '<NULL>'
+'14105 - 14112, <Person> : Shannon' == '<NULL>'
+'19830 - 19839, <Person> : LL Cool J' == '19830 - 19832, <Org> : LL'
+'24369 - 24381, <Person> : Ross G. Hoyt' == '<NULL>'
+'24416 - 24427, <Person> : Jesse Auton' == '<NULL>'
+'24615 - 24620, <Person> : Davis' == '24615 - 24620, <Location> : Davis'
+'24659 - 24674, <Person> : Newell H. Beaty' == '<NULL>'
+'24700 - 24713, <Person> : Clay Tice Jr.' == '<NULL>'
+'24905 - 24924, <Person> : John C. Scheidt Jr.' == '<NULL>'
+'25063 - 25079, <Person> : Gerald A. Daniel' == '<NULL>'
+'25116 - 25135, <Person> : Glenn A. Profitt II' == '<NULL>'
+'27485 - 27492, <Person> : Sattler' == '<NULL>'
+'27495 - 27502, <Person> : Maumill' == '<NULL>'
+'27505 - 27511, <Person> : Mabury' == '<NULL>'
+'28443 - 28457, <Person> : Howard Sattler' == '<NULL>'
+'28475 - 28488, <Person> : Gary Carvolth' == '<NULL>'
+'28525 - 28538, <Person> : Graham Mabury' == '<NULL>'
+'28701 - 28729, <Person> : Basil Zempilas Glen Jakovich' == '<NULL>'
+'28851 - 28863, <Person> : Karl Langdon' == '<NULL>'
+'28882 - 28896, <Person> : Shane Woewodin' == '<NULL>'
+'28899 - 28912, <Person> : Graham Dawson' == '<NULL>'
+'28931 - 28942, <Person> : Brad Hardie' == '<NULL>'
+'29517 - 29529, <Person> : Karl Langdon' == '<NULL>'
+'29532 - 29545, <Person> : Harvey Deegan' == '<NULL>'
+'29586 - 29598, <Person> : Peter Vlahos' == '<NULL>'
+'30022 - 30038, <Person> : George Grljusich' == '<NULL>'
+'32094 - 32101, <Person> : Ro Adam' == '<NULL>'
+'32104 - 32118, <Person> : Li Rois Adenes' == '<NULL>'
+'32121 - 32138, <Person> : Adan le Menestrel' == '<NULL>'
+'32145 - 32166, <Person> : Adam Rex Menestrallus' == '<NULL>'
+'32259 - 32281, <Person> : Adilson Tavares Varela' == '<NULL>'
+'32445 - 32451, <Person> : Cabral' == '<NULL>'
+'32486 - 32492, <Person> : Cabral' == '<NULL>'
+'33234 - 33250, <Person> : Marjania Zaluska' == '<NULL>'
+'33873 - 33888, <Person> : Karol BaliХski' == '<NULL>'
+'34639 - 34644, <Person> : Lechu' == '<NULL>'
+'34651 - 34674, <Person> : Dwutygodniku dla Kobiet' == '<NULL>'
+'38552 - 38556, <Person> : Wren' == '<NULL>'
+'38880 - 38884, <Person> : Wren' == '<NULL>'
+'39582 - 39589, <Person> : Gradsky' == '<NULL>'
+'39667 - 39674, <Person> : Gradsky' == '<NULL>'
+'39826 - 39833, <Person> : Gradsky' == '<NULL>'
+'44347 - 44359, <Person> : Lord Stanley' == '<NULL>'
+'46664 - 46668, <Person> : Sant' == '<NULL>'
+'48217 - 48223, <Person> : Angela' == '<NULL>'
+'48276 - 48282, <Person> : Carder' == '<NULL>'
+'49148 - 49154, <Person> : Carder' == '<NULL>'
+'49233 - 49239, <Person> : Carder' == '<NULL>'
+'49364 - 49370, <Person> : Carder' == '<NULL>'
+'49692 - 49698, <Person> : Carder' == '<NULL>'
+'49840 - 49853, <Person> : Angela Carder' == '<NULL>'
+'49962 - 49968, <Person> : Carder' == '<NULL>'
+'50272 - 50278, <Person> : Carder' == '<NULL>'
+'50603 - 50616, <Person> : Angela Carder' == '<NULL>'
+'50682 - 50688, <Person> : Carder' == '<NULL>'
+'50887 - 50893, <Person> : Carder' == '<NULL>'
+'51044 - 51050, <Person> : Carder' == '<NULL>'
+'51548 - 51561, <Person> : Angela Carder' == '<NULL>'
+'51696 - 51702, <Person> : Carder' == '<NULL>'
+'51771 - 51778, <Person> : Stoners' == '<NULL>'
+'52177 - 52192, <Person> : Angelo Fresquet' == '<NULL>'
+'52376 - 52391, <Person> : Angelo Fresquet' == '<NULL>'
+'52413 - 52428, <Person> : Angelo Fresquet' == '<NULL>'
+'52500 - 52506, <Person> : Angelo' == '52500 - 52506, <Location> : Angelo'
+'53069 - 53075, <Person> : Angelo' == '<NULL>'
+'53147 - 53153, <Person> : Angelo' == '<NULL>'
+'53389 - 53395, <Person> : Angelo' == '<NULL>'
+'53471 - 53477, <Person> : Angelo' == '<NULL>'
+'53576 - 53590, <Person> : Julio Iglesias' == '<NULL>'
+'53647 - 53653, <Person> : Angelo' == '<NULL>'
+'54417 - 54423, <Person> : Angelo' == '<NULL>'
+'54711 - 54717, <Person> : Angelo' == '<NULL>'
+'55014 - 55020, <Person> : Angelo' == '<NULL>'
+'56177 - 56183, <Person> : Angelo' == '<NULL>'
+'56249 - 56255, <Person> : Angelo' == '<NULL>'
+'56315 - 56329, <Person> : Britney Spears' == '<NULL>'
+'56332 - 56342, <Person> : Jamie Foxx' == '<NULL>'
+'56345 - 56357, <Person> : Paris Hilton' == '<NULL>'
+'56360 - 56376, <Person> : Shaquille O'Neal' == '<NULL>'
+'56379 - 56393, <Person> : Jonathan Vilma' == '<NULL>'
+'56396 - 56411, <Person> : Bryant Mckinnie' == '<NULL>'
+'56414 - 56424, <Person> : Kanye West' == '<NULL>'
+'56427 - 56435, <Person> : P. Diddy' == '<NULL>'
+'56438 - 56450, <Person> : Cameron Diaz' == '<NULL>'
+'56453 - 56465, <Person> : Oliver Stone' == '<NULL>'
+'56468 - 56480, <Person> : Steven Tyler' == '<NULL>'
+'56483 - 56496, <Person> : Neve Campbell' == '<NULL>'
+'56499 - 56522, <Person> : Dwayne The Rock Johnson' == '<NULL>'
+'56525 - 56536, <Person> : Andy Garcia' == '<NULL>'
+'56539 - 56546, <Person> : Shakira' == '<NULL>'
+'56549 - 56561, <Person> : Ricky Martin' == '<NULL>'
+'56588 - 56602, <Person> : Michael Jordan' == '<NULL>'
+'56605 - 56620, <Person> : Roberto Cavalli' == '<NULL>'
+'56637 - 56642, <Person> : DJ AM' == '<NULL>'
+'56645 - 56652, <Person> : DJ IRIE' == '<NULL>'
+'56655 - 56663, <Person> : DJ KALED' == '<NULL>'
+'56666 - 56675, <Person> : DJ TIESTO' == '<NULL>'
+'56934 - 56940, <Person> : Angelo' == '<NULL>'
+'57121 - 57131, <Person> : Deco Drive' == '57121 - 57131, <Location> : Deco Drive'
+'57448 - 57454, <Person> : Angelo' == '<NULL>'
+'58248 - 58254, <Person> : Angelo' == '<NULL>'
+'58435 - 58441, <Person> : Angelo' == '<NULL>'
+'58548 - 58554, <Person> : Angelo' == '<NULL>'
+'59107 - 59134, <Person> : Henrique Lopes de MendonУЇa' == '<NULL>'
+'60458 - 60485, <Person> : Henrique Lopes de MendonУЇa' == '<NULL>'
+'60720 - 60732, <Person> : Alfredo Keil' == '<NULL>'
+'61369 - 61378, <Person> : MendonУЇa' == '<NULL>'
+'64848 - 64860, <Person> : William Foot' == '64848 - 64860, <Org> : William Foot'
+'65468 - 65479, <Person> : Eric Butler' == '<NULL>'
+'66924 - 66932, <Person> : Campbell' == '<NULL>'
+'67626 - 67637, <Person> : Eric Butler' == '<NULL>'
+'68829 - 68841, <Person> : Harcourt , D' == '<NULL>'
+'68947 - 68962, <Person> : Campbell , A.A.' == '<NULL>'
+'71009 - 71024, <Person> : S S C Dolby Apd' == '<NULL>'
+'71067 - 71090, <Person> : Herbert A E Scheele Obe' == '<NULL>'
+'71760 - 71776, <Person> : Kang Young Joong' == '<NULL>'
+'75603 - 75612, <Person> : Li Shimin' == '<NULL>'
+'75684 - 75697, <Person> : Wang Shichong' == '<NULL>'
+'75724 - 75734, <Person> : Dou Jiande' == '<NULL>'
+'75762 - 75772, <Person> : Dou Jiande' == '<NULL>'
+'75811 - 75820, <Person> : Li Shimin' == '<NULL>'
+'75862 - 75871, <Person> : Li Shimin' == '75862 - 75879, <Org> : Li Shimin 's army'
+'75917 - 75927, <Person> : Dou Jiande' == '75907 - 75927, <Org> : troops of Dou Jiande'
+'75997 - 76007, <Person> : Dou Jiande' == '<NULL>'
+'76024 - 76037, <Person> : Wang Shichong' == '<NULL>'
+'76088 - 76098, <Person> : Dou Jiande' == '<NULL>'
+'76811 - 76821, <Person> : Sarraounia' == '<NULL>'
+'76831 - 76837, <Person> : Voulet' == '<NULL>'
+'77002 - 77012, <Person> : Sarraounia' == '<NULL>'
+'77089 - 77102, <Person> : Paul Joalland' == '<NULL>'
+'78721 - 78729, <Person> : Belgrano' == '<NULL>'
+'79130 - 79138, <Person> : Belgrano' == '<NULL>'
+'79211 - 79218, <Person> : Pezuela' == '<NULL>'
+'79295 - 79303, <Person> : Belgrano' == '<NULL>'
+'79562 - 79571, <Person> : CУЁrdenas' == '<NULL>'
+'79611 - 79619, <Person> : Belgrano' == '<NULL>'
+'79650 - 79656, <Person> : Castro' == '79650 - 79656, <Org> : Castro'
+'79686 - 79695, <Person> : CУЁrdenas' == '<NULL>'
+'79719 - 79727, <Person> : Belgrano' == '<NULL>'
+'79752 - 79759, <Person> : Pazuela' == '<NULL>'
+'79782 - 79790, <Person> : Belgrano' == '<NULL>'
+'79855 - 79863, <Person> : Belgrano' == '<NULL>'
+'79994 - 80001, <Person> : Pezuela' == '<NULL>'
+'80119 - 80127, <Person> : Belgrano' == '<NULL>'
+'80270 - 80278, <Person> : Belgrano' == '<NULL>'
+'80296 - 80304, <Person> : Belgrano' == '<NULL>'
+'80349 - 80352, <Person> : Vel' == '<NULL>'
+'80486 - 80496, <Person> : Vilcapugio' == '80462 - 80496, <Org> : troops in PotosУ­ after Vilcapugio'
+'81262 - 81276, <Person> : James P. Hogan' == '<NULL>'
+'81279 - 81288, <Person> : Don Maitz' == '<NULL>'
+'81308 - 81330, <Person> : Los Hermanos Hernandez' == '<NULL>'
+'81333 - 81343, <Person> : Art Widner' == '<NULL>'
+'81346 - 81360, <Person> : Barry Longyear' == '<NULL>'
+'81363 - 81379, <Person> : Harry Turtledove' == '<NULL>'
+'81382 - 81392, <Person> : David Brin' == '<NULL>'
+'81395 - 81401, <Person> : Spider' == '<NULL>'
+'81424 - 81438, <Person> : Harlan Ellison' == '<NULL>'
+'81441 - 81459, <Person> : Forrest J Ackerman' == '<NULL>'
+'81462 - 81475, <Person> : Kent Brewster' == '<NULL>'
+'81480 - 81495, <Person> : Esther Friesner' == '<NULL>'
+'81543 - 81560, <Person> : Richard A. Lupoff' == '<NULL>'
+'81563 - 81580, <Person> : Frank N. Robinson' == '<NULL>'
+'84009 - 84025, <Person> : Benjamin Stoloff' == '<NULL>'
+'84080 - 84091, <Person> : Ben Stoloff' == '<NULL>'
+'84278 - 84285, <Person> : Stoloff' == '<NULL>'
+'84589 - 84603, <Person> : Ben Player Ben' == '<NULL>'
+'84901 - 84904, <Person> : Ben' == '<NULL>'
+'85674 - 85684, <Person> : Ben Player' == '<NULL>'
+'86405 - 86411, <Person> : Player' == '<NULL>'
+'86726 - 86736, <Person> : Ben Player' == '<NULL>'
+'86779 - 86786, <Person> : Rawlins' == '<NULL>'
+'86817 - 86820, <Person> : Ben' == '<NULL>'
+'87019 - 87022, <Person> : Ben' == '<NULL>'
+'87422 - 87428, <Person> : Player' == '<NULL>'
+'87579 - 87589, <Person> : Ben Player' == '<NULL>'
+'87646 - 87652, <Person> : Player' == '<NULL>'
+'87743 - 87753, <Person> : Ben Player' == '<NULL>'
+'88053 - 88056, <Person> : Ben' == '<NULL>'
+'88115 - 88127, <Person> : Kelly Slater' == '<NULL>'
+'88776 - 88779, <Person> : Ben' == '<NULL>'
+'88906 - 88909, <Person> : Ben' == '<NULL>'
+'89018 - 89022, <Person> : Toby' == '<NULL>'
+'89096 - 89106, <Person> : Ben Player' == '<NULL>'
+'90213 - 90219, <Person> : Player' == '<NULL>'
+'90223 - 90229, <Person> : Player' == '<NULL>'
+'91464 - 91470, <Person> : Player' == '<NULL>'
+'91592 - 91598, <Person> : Player' == '<NULL>'
+'93699 - 93711, <Person> : Mike Stewart' == '<NULL>'
+'94017 - 94027, <Person> : Ben Player' == '<NULL>'
+'94303 - 94309, <Person> : Player' == '<NULL>'
+'95557 - 95571, <Person> : Herman Salling' == '<NULL>'
+'95643 - 95657, <Person> : Herman Salling' == '<NULL>'
+'95799 - 95820, <Person> : William James Atessis' == '<NULL>'
+'96329 - 96336, <Person> : Atessis' == '<NULL>'
+'96705 - 96712, <Person> : Atessis' == '<NULL>'
+'99206 - 99238, <Person> : William Mailes " Cowboy " Cowley' == '<NULL>'
+'99515 - 99521, <Person> : Cowley' == '<NULL>'
+'100070 - 100076, <Person> : Cowley' == '<NULL>'
+'100197 - 100201, <Person> : 1944' == '<NULL>'
+'100259 - 100265, <Person> : Cowley' == '<NULL>'
+'100524 - 100530, <Person> : Cowley' == '<NULL>'
+'101207 - 101221, <Person> : Tom Whitecloud' == '<NULL>'
+'101615 - 101624, <Person> : Ben Wolff' == '<NULL>'
+'101629 - 101638, <Person> : Andy Dean' == '<NULL>'
+'112287 - 112319, <Person> : William Herbert " Buckshot " May' == '<NULL>'
+'112545 - 112548, <Person> : May' == '<NULL>'
+'112911 - 112920, <Person> : Max Carey' == '<NULL>'
+'112923 - 112934, <Person> : Kiki Cuyler' == '<NULL>'
+'112937 - 112954, <Person> : Rabbit Maranville' == '<NULL>'
+'112961 - 112972, <Person> : Pie Traynor' == '<NULL>'
+'112976 - 112979, <Person> : May' == '<NULL>'
+'113148 - 113154, <Person> : Hayley' == '<NULL>'
+'113191 - 113204, <Person> : Avery Bullock' == '<NULL>'
+'113208 - 113212, <Person> : Stan' == '<NULL>'
+'113294 - 113298, <Person> : Stan' == '<NULL>'
+'113383 - 113390, <Person> : Bullock' == '<NULL>'
+'113412 - 113416, <Person> : Stan' == '<NULL>'
+'113452 - 113459, <Person> : Bullock' == '<NULL>'
+'113508 - 113516, <Person> : Francine' == '<NULL>'
+'113549 - 113553, <Person> : Stan' == '<NULL>'
+'113581 - 113587, <Person> : Hayley' == '<NULL>'
+'113604 - 113608, <Person> : Jeff' == '<NULL>'
+'113616 - 113622, <Person> : Hayley' == '<NULL>'
+'113674 - 113678, <Person> : Jeff' == '<NULL>'
+'113683 - 113689, <Person> : Hayley' == '<NULL>'
+'113714 - 113720, <Person> : Hayley' == '<NULL>'
+'113736 - 113743, <Person> : Bullock' == '<NULL>'
+'113747 - 113754, <Person> : Bullock' == '<NULL>'
+'113766 - 113770, <Person> : Stan' == '<NULL>'
+'113779 - 113783, <Person> : Jeff' == '<NULL>'
+'113827 - 113831, <Person> : Jeff' == '<NULL>'
+'113847 - 113851, <Person> : Stan' == '<NULL>'
+'113875 - 113882, <Person> : Bullock' == '<NULL>'
+'113889 - 113895, <Person> : Hayley' == '<NULL>'
+'113919 - 113923, <Person> : Stan' == '<NULL>'
+'114021 - 114028, <Person> : Bullock' == '<NULL>'
+'114076 - 114080, <Person> : Stan' == '114076 - 114080, <Location> : Stan'
+'114424 - 114429, <Person> : Steve' == '<NULL>'
+'114580 - 114595, <Person> : Jean-Luc Picard' == '<NULL>'
+'114598 - 114605, <Person> : Bullock' == '<NULL>'
+'114619 - 114634, <Person> : Patrick Stewart' == '<NULL>'
+'114681 - 114687, <Person> : Picard' == '<NULL>'
+'115781 - 115789, <Person> : Anderson' == '<NULL>'
+'116335 - 116349, <Person> : Agenor Poletti' == '<NULL>'
+'116661 - 116666, <Person> : Caloi' == '<NULL>'
+'116700 - 116711, <Person> : Luigi Caloi' == '<NULL>'
+'116894 - 116899, <Person> : Luigi' == '<NULL>'
+'116954 - 116962, <Person> : Henrique' == '<NULL>'
+'116967 - 116977, <Person> : JosУЉ Pedr' == '<NULL>'
+'117023 - 117034, <Person> : Guido Caloi' == '<NULL>'
+'117134 - 117139, <Person> : Guido' == '<NULL>'
+'117235 - 117240, <Person> : Caloi' == '<NULL>'
+'117313 - 117324, <Person> : Bruno Caloi' == '<NULL>'
+'118251 - 118262, <Person> : Howie Payne' == '<NULL>'
+'118355 - 118360, <Person> : Payne' == '<NULL>'
+'119575 - 119584, <Person> : Harthoorn' == '<NULL>'
+'120043 - 120050, <Person> : Citrone' == '<NULL>'
+'120220 - 120227, <Person> : Citrone' == '<NULL>'
+'120448 - 120455, <Person> : Citrone' == '<NULL>'
+'120759 - 120762, <Person> : 200' == '<NULL>'
+'121019 - 121026, <Person> : Citrone' == '<NULL>'
+'121139 - 121153, <Person> : Dave Colclough' == '<NULL>'
+'121158 - 121188, <Person> : Charalambos " Bambos " Xanthos' == '<NULL>'
+'121202 - 121209, <Person> : Citrone' == '<NULL>'
+'121285 - 121292, <Person> : Citrone' == '<NULL>'
+'121386 - 121393, <Person> : Citrone' == '<NULL>'
+'121504 - 121511, <Person> : Citrone' == '<NULL>'
+'121685 - 121692, <Person> : Citrone' == '<NULL>'
+'121749 - 121761, <Person> : Brandon Chik' == '<NULL>'
+'121764 - 121771, <Person> : Citrone' == '<NULL>'
+'121903 - 121910, <Person> : Citrone' == '<NULL>'
+'122016 - 122023, <Person> : Citrone' == '<NULL>'
+'122287 - 122324, <Person> : Carl Heinrich Georg ( es ) von Heyden' == '<NULL>'
+'122899 - 122915, <Person> : Carmen Cavallaro' == '<NULL>'
+'123203 - 123212, <Person> : Cavallaro' == '<NULL>'
+'123899 - 123914, <Person> : George Shearing' == '<NULL>'
+'123919 - 123929, <Person> : Mel TormУЉ' == '<NULL>'
+'124154 - 124163, <Person> : Cavallaro' == '<NULL>'
+'124603 - 124611, <Person> : Liberace' == '<NULL>'
+'124643 - 124652, <Person> : Cavallaro' == '<NULL>'
+'124752 - 124761, <Person> : Cavallaro' == '<NULL>'
+'125227 - 125243, <Person> : Carmen Cavallaro' == '<NULL>'
+'125753 - 125761, <Person> : Beauford' == '<NULL>'
+'125952 - 125958, <Person> : Carter' == '<NULL>'
+'125980 - 125986, <Person> : Carter' == '<NULL>'
+'126005 - 126015, <Person> : Buddy Rich' == '<NULL>'
+'126046 - 126052, <Person> : Carter' == '<NULL>'
+'126116 - 126122, <Person> : Carter' == '<NULL>'
+'126174 - 126180, <Person> : Carter' == '<NULL>'
+'126567 - 126580, <Person> : Dave Matthews' == '<NULL>'
+'126606 - 126612, <Person> : Carter' == '<NULL>'
+'126645 - 126656, <Person> : LeRoi Moore' == '<NULL>'
+'126851 - 126855, <Person> : Dave' == '<NULL>'
+'126872 - 126878, <Person> : Carter' == '<NULL>'
+'126883 - 126888, <Person> : LeRoi' == '<NULL>'
+'127066 - 127079, <Person> : Breana Symone' == '<NULL>'
+'127203 - 127219, <Person> : October 5th 2001' == '<NULL>'
+'127230 - 127256, <Person> : Marcus Carrington Beauford' == '<NULL>'
+'127282 - 127290, <Person> : Beauford' == '<NULL>'
+'127385 - 127399, <Person> : Carlos Santana' == '<NULL>'
+'127402 - 127413, <Person> : John Popper' == '<NULL>'
+'127439 - 127452, <Person> : Victor Wooten' == '<NULL>'
+'130584 - 130604, <Person> : William C. Cesaroni.' == '<NULL>'
+'131369 - 131375, <Person> : Gaudin' == '<NULL>'
+'131509 - 131515, <Person> : Gaudin' == '<NULL>'
+'131954 - 131960, <Person> : Gaudin' == '<NULL>'
+'132358 - 132364, <Person> : Gaudin' == '<NULL>'
+'132511 - 132517, <Person> : Gaudin' == '<NULL>'
+'132933 - 132939, <Person> : Gaudin' == '<NULL>'
+'133347 - 133362, <Person> : Dustin Majewski' == '<NULL>'
+'133366 - 133372, <Person> : Gaudin' == '<NULL>'
+'133885 - 133891, <Person> : Gaudin' == '<NULL>'
+'134811 - 134817, <Person> : Ruhlen' == '<NULL>'
+'134872 - 134876, <Person> : Wise' == '<NULL>'
+'135271 - 135277, <Person> : NУЂdiy' == '<NULL>'
+'136852 - 136859, <Person> : Gaudion' == '<NULL>'
+'137380 - 137387, <Person> : Michael' == '<NULL>'
+'138460 - 138466, <Person> : Bailey' == '<NULL>'
+'138613 - 138619, <Person> : Bailey' == '<NULL>'
+'138810 - 138816, <Person> : Bailey' == '<NULL>'
+'139663 - 139669, <Person> : Penley' == '<NULL>'
+'140318 - 140324, <Person> : Penley' == '<NULL>'
+'140611 - 140617, <Person> : Penley' == '<NULL>'
+'140652 - 140670, <Person> : Christopher Penley' == '<NULL>'
+'140763 - 140781, <Person> : Christopher Penley' == '<NULL>'
+'140972 - 140990, <Person> : Christopher Penley' == '<NULL>'
+'142642 - 142648, <Person> : Tarzan' == '<NULL>'
+'143486 - 143490, <Person> : Keim' == '<NULL>'
+'146834 - 146840, <Person> : Watson' == '<NULL>'
+'147818 - 147832, <Person> : Harry Laughlin' == '<NULL>'
+'148613 - 148625, <Person> : Max DelbrУМc' == '<NULL>'
+'148776 - 148782, <Person> : Watson' == '<NULL>'
+'152650 - 152666, <Person> : Maxfield Parrish' == '<NULL>'
+'155086 - 155097, <Person> : Julian Cope' == '<NULL>'
+'155532 - 155540, <Person> : Iggy Pop' == '<NULL>'
+'157991 - 157995, <Person> : DaHv' == '<NULL>'
+'158702 - 158715, <Person> : Mary Harwisch' == '<NULL>'
+'158780 - 158791, <Person> : Humberstone' == '<NULL>'
+'159001 - 159007, <Person> : Prodan' == '<NULL>'
+'159107 - 159113, <Person> : Prodan' == '<NULL>'
+'159213 - 159219, <Person> : Prodan' == '<NULL>'
+'160297 - 160309, <Person> : Arran Murphy' == '<NULL>'
+'160978 - 160986, <Person> : Shanahan' == '<NULL>'
+'163213 - 163227, <Person> : David W. Snoke' == '<NULL>'
+'163636 - 163641, <Person> : Snoke' == '<NULL>'
+'164401 - 164419, <Person> : David W. Opderbeck' == '<NULL>'
+'164778 - 164783, <Person> : Snoke' == '<NULL>'
+'164893 - 164905, <Person> : Michael Behe' == '<NULL>'
+'165070 - 165074, <Person> : Behe' == '<NULL>'
+'165302 - 165306, <Person> : Behe' == '<NULL>'
+'165311 - 165316, <Person> : Snoke' == '<NULL>'
+'165404 - 165408, <Person> : Behe' == '<NULL>'
+'165540 - 165550, <Person> : Kitzmiller' == '<NULL>'
+'165645 - 165649, <Person> : Behe' == '<NULL>'
+'165726 - 165731, <Person> : Jones' == '<NULL>'
+'165863 - 165867, <Person> : Behe' == '<NULL>'
+'167345 - 167353, <Person> : Magedson' == '<NULL>'
+'167572 - 167591, <Person> : Delwyn J. Langejans' == '<NULL>'
+'167766 - 167775, <Person> : Langejans' == '<NULL>'
+'168176 - 168185, <Person> : Langejans' == '<NULL>'
+'168312 - 168321, <Person> : Langejans' == '<NULL>'
+'168622 - 168631, <Person> : Langejans' == '<NULL>'
+'168769 - 168779, <Person> : Thom Bresh' == '<NULL>'
+'168934 - 168949, <Person> : Muriel Anderson' == '<NULL>'
+'168953 - 168962, <Person> : Langejans' == '<NULL>'
+'169118 - 169127, <Person> : Langejans' == '<NULL>'
+'169685 - 169697, <Person> : Dewa Budjana' == '<NULL>'
+'169854 - 169861, <Person> : Budjana' == '<NULL>'
+'170177 - 170189, <Person> : Dewa Budjana' == '<NULL>'
+'170243 - 170250, <Person> : Tohpati' == '<NULL>'
+'170253 - 170258, <Person> : Ridho' == '<NULL>'
+'170263 - 170275, <Person> : Abdee Negara' == '<NULL>'
+'170367 - 170374, <Person> : Budjana' == '<NULL>'
+'170511 - 170518, <Person> : Budjana' == '<NULL>'
+'170794 - 170801, <Person> : Budjana' == '<NULL>'
+'171061 - 171073, <Person> : Jack Lesmana' == '<NULL>'
+'171146 - 171153, <Person> : Budjana' == '<NULL>'
+'171213 - 171220, <Person> : Budjana' == '<NULL>'
+'171510 - 171525, <Person> : John McLaughlin' == '<NULL>'
+'171556 - 171567, <Person> : Chick Corea' == '<NULL>'
+'171655 - 171666, <Person> : Pat Metheny' == '<NULL>'
+'171701 - 171708, <Person> : Budjana' == '<NULL>'
+'171970 - 171977, <Person> : Budjana' == '<NULL>'
+'172069 - 172076, <Person> : Budjana' == '<NULL>'
+'172273 - 172277, <Person> : Jack' == '<NULL>'
+'172287 - 172294, <Person> : Budjana' == '<NULL>'
+'172354 - 172359, <Person> : Indra' == '<NULL>'
+'172430 - 172437, <Person> : Budjana' == '<NULL>'
+'172519 - 172526, <Person> : Budjana' == '<NULL>'
+'172576 - 172583, <Person> : Budjana' == '<NULL>'
+'172924 - 172929, <Person> : Baron' == '<NULL>'
+'172943 - 172949, <Person> : Thomas' == '<NULL>'
+'172961 - 172967, <Person> : Armand' == '<NULL>'
+'172982 - 172988, <Person> : Ronald' == '<NULL>'
+'173195 - 173207, <Person> : Dewa Budjana' == '<NULL>'
+'173380 - 173387, <Person> : Budjana' == '<NULL>'
+'173515 - 173527, <Person> : Dewa Budjana' == '<NULL>'
+'174927 - 174933, <Person> : Silang' == '<NULL>'
+'175212 - 175218, <Person> : Silang' == '<NULL>'
+'175230 - 175236, <Person> : Silang' == '<NULL>'
+'175550 - 175562, <Person> : Miguel Vicos' == '<NULL>'
+'175825 - 175833, <Person> : Gabriela' == '<NULL>'
+'179125 - 179145, <Person> : Shree Saptakoteshwar' == '<NULL>'
+'179148 - 179160, <Person> : Shree Ganesh' == '<NULL>'
+'179165 - 179182, <Person> : Shree Dwarkeshwar' == '<NULL>'
+'179428 - 179445, <Person> : Rui Gomez Pereira' == '<NULL>'
+'179519 - 179539, <Person> : Shree Saptakoteshwar' == '<NULL>'
+'179594 - 179601, <Person> : Kadamba' == '<NULL>'
+'179613 - 179633, <Person> : Shree Saptakoteshwar' == '<NULL>'
+'179662 - 179670, <Person> : Kadambas' == '<NULL>'
+'179795 - 179808, <Person> : Madhav Mantri' == '<NULL>'
+'179917 - 179931, <Person> : Saptakoteshwar' == '<NULL>'
+'180081 - 180101, <Person> : ShivajiRaje Bhonsale' == '<NULL>'
+'180340 - 180345, <Person> : Sousa' == '<NULL>'
+'180503 - 180520, <Person> : Rui Gomez Pereira' == '<NULL>'
+'183081 - 183102, <Person> : Dorothea von Schlegel' == '<NULL>'
+'183173 - 183190, <Person> : Moses Mendelssohn' == '<NULL>'
+'183590 - 183604, <Person> : Henriette Herz' == '<NULL>'
+'183850 - 183857, <Person> : Novalis' == '<NULL>'
+'183861 - 183869, <Person> : Schlegel' == '<NULL>'
+'184050 - 184058, <Person> : Schlegel' == '<NULL>'
+'184243 - 184252, <Person> : Friedrich' == '<NULL>'
+'184257 - 184265, <Person> : Dorothea' == '<NULL>'
+'184328 - 184336, <Person> : Dorothea' == '<NULL>'
+'184359 - 184380, <Person> : Dorothea von Schlegel' == '<NULL>'
+'184468 - 184482, <Person> : Henriette Herz' == '<NULL>'
+'184531 - 184546, <Person> : Madame de StaУЋ' == '<NULL>'
+'184550 - 184559, <Person> : Friedrich' == '<NULL>'
+'184652 - 184659, <Person> : Philipp' == '<NULL>'
+'184826 - 184843, <Person> : Moses Mendelssohn' == '<NULL>'
+'184981 - 184989, <Person> : Dorothea' == '<NULL>'
+'185297 - 185308, <Person> : Mendelssohn' == '<NULL>'
+'185347 - 185354, <Person> : Lessing' == '<NULL>'
+'185385 - 185404, <Person> : Friedrich the Great' == '<NULL>'
+'185409 - 185416, <Person> : Lessing' == '<NULL>'
+'185481 - 185492, <Person> : Mendelssohn' == '<NULL>'
+'185506 - 185514, <Person> : Dorothea' == '<NULL>'
+'185861 - 185878, <Person> : Moses Mendelssohn' == '<NULL>'
+'185881 - 185905, <Person> : Gotthold Ephraim Lessing' == '<NULL>'
+'185908 - 185926, <Person> : Friedrich Schlegel' == '<NULL>'
+'185929 - 185946, <Person> : Germaine de StaУЋ' == '<NULL>'
+'185949 - 185966, <Person> : Felix Mendelssohn' == '<NULL>'
+'185969 - 185980, <Person> : Ludwi Tieck' == '<NULL>'
+'185983 - 185990, <Person> : Novalis' == '<NULL>'
+'186007 - 186015, <Person> : Dorothea' == '<NULL>'
+'186758 - 186769, <Person> : Rahel Levin' == '<NULL>'
+'186950 - 186958, <Person> : Dorothea' == '<NULL>'
+'186979 - 186997, <Person> : Friedrich Schlegel' == '<NULL>'
+'187001 - 187009, <Person> : De StaУЋ' == '<NULL>'
+'187123 - 187131, <Person> : Bourbons' == '<NULL>'
+'187242 - 187250, <Person> : de StaУЋ' == '<NULL>'
+'187291 - 187299, <Person> : Schlegel' == '<NULL>'
+'187561 - 187578, <Person> : Moses Mendelssohn' == '<NULL>'
+'187656 - 187673, <Person> : Moses Mendelssohn' == '<NULL>'
+'188490 - 188496, <Person> : Bobick' == '<NULL>'
+'188687 - 188693, <Person> : Bobick' == '<NULL>'
+'188862 - 188868, <Person> : Bobick' == '<NULL>'
+'188994 - 189000, <Person> : Bobick' == '<NULL>'
+'189145 - 189151, <Person> : Bobick' == '<NULL>'
+'189238 - 189247, <Person> : Stevenson' == '<NULL>'
+'189291 - 189297, <Person> : Bobick' == '<NULL>'
+'189325 - 189334, <Person> : Stevenson' == '<NULL>'
+'189343 - 189349, <Person> : Bobick' == '<NULL>'
+'189399 - 189405, <Person> : Bobick' == '<NULL>'
+'189502 - 189508, <Person> : Bobick' == '<NULL>'
+'189575 - 189581, <Person> : Bobick' == '<NULL>'
+'189632 - 189637, <Person> : Burns' == '<NULL>'
+'189697 - 189703, <Person> : Bobick' == '<NULL>'
+'189797 - 189809, <Person> : Manuel Ramos' == '<NULL>'
+'189813 - 189819, <Person> : Bobick' == '<NULL>'
+'190044 - 190057, <Person> : Billy Daniels' == '<NULL>'
+'190061 - 190067, <Person> : Bobick' == '<NULL>'
+'190216 - 190223, <Person> : Frazier' == '<NULL>'
+'190305 - 190311, <Person> : Bobick' == '<NULL>'
+'190315 - 190321, <Person> : Bobick' == '<NULL>'
+'190673 - 190686, <Person> : Bunny Johnson' == '<NULL>'
+'190758 - 190764, <Person> : Bobick' == '<NULL>'
+'190992 - 190998, <Person> : Norton' == '<NULL>'
+'191062 - 191068, <Person> : Bobick' == '<NULL>'
+'191071 - 191077, <Person> : Norton' == '<NULL>'
+'191106 - 191112, <Person> : Bobick' == '<NULL>'
+'191192 - 191198, <Person> : Bobick' == '<NULL>'
+'191218 - 191224, <Person> : Bobick' == '<NULL>'
+'191257 - 191263, <Person> : Norton' == '<NULL>'
+'191327 - 191333, <Person> : Bobick' == '<NULL>'
+'191501 - 191513, <Person> : Scott LeDoux' == '<NULL>'
+'191612 - 191626, <Person> : Kallie Knoetze' == '<NULL>'
+'192055 - 192061, <Person> : Bobick' == '<NULL>'
+'192308 - 192314, <Person> : Bobick' == '<NULL>'
+'192392 - 192398, <Person> : Bobick' == '<NULL>'
+'192490 - 192496, <Person> : Rodney' == '<NULL>'
+'194742 - 194747, <Person> : Faber' == '<NULL>'
+'195120 - 195136, <Person> : Eberhard Faber V' == '<NULL>'
+'195194 - 195196, <Person> : VI' == '<NULL>'
+'195792 - 195798, <Person> : Hitzig' == '<NULL>'
+'195897 - 195903, <Person> : Hitzig' == '<NULL>'
+'196012 - 196018, <Person> : Hitzig' == '<NULL>'
+'196215 - 196222, <Person> : Fritsch' == '196207 - 196222, <Org> : home of Fritsch'
+'196323 - 196329, <Person> : Hitzig' == '<NULL>'
+'196334 - 196341, <Person> : Fritsch' == '<NULL>'
+'196695 - 196701, <Person> : Hitzig' == '<NULL>'
+'196970 - 196976, <Person> : Hitzig' == '<NULL>'
+'197191 - 197197, <Person> : Hitzig' == '<NULL>'
+'197330 - 197336, <Person> : Hitzig' == '<NULL>'
+'197492 - 197498, <Person> : Hitzig' == '<NULL>'
+'197503 - 197510, <Person> : Fritsch' == '<NULL>'
+'197629 - 197642, <Person> : David Ferrier' == '<NULL>'
+'198265 - 198273, <Person> : LУЁszlУГ' == '<NULL>'
+'198343 - 198351, <Person> : LУЁszlУГ' == '<NULL>'
+'198383 - 198390, <Person> : AndrУЁs' == '<NULL>'
+'198563 - 198571, <Person> : LУЁszlУГ' == '198563 - 198571, <Org> : LУЁszlУГ'
+'198590 - 198597, <Person> : AndrУЁs' == '198590 - 198597, <Org> : AndrУЁs'
+'198627 - 198634, <Person> : AndrУЁs' == '<NULL>'
+'198654 - 198662, <Person> : LУЁszlУГ' == '<NULL>'
+'198695 - 198700, <Person> : Ilona' == '<NULL>'
+'198714 - 198721, <Person> : AndrУЁs' == '<NULL>'
+'198956 - 198961, <Person> : Ilona' == '<NULL>'
+'199019 - 199023, <Person> : Hans' == '<NULL>'
+'199096 - 199101, <Person> : Ilona' == '<NULL>'
+'199182 - 199190, <Person> : LУЁszlУГ' == '<NULL>'
+'199205 - 199209, <Person> : Hans' == '<NULL>'
+'199285 - 199289, <Person> : Hans' == '<NULL>'
+'199584 - 199589, <Person> : Ilona' == '<NULL>'
+'199615 - 199623, <Person> : LУЁszlУГ' == '<NULL>'
+'199647 - 199651, <Person> : Hans' == '<NULL>'
+'201032 - 201038, <Person> : Howell' == '<NULL>'
+'202129 - 202134, <Person> : Touma' == '<NULL>'
+'202188 - 202200, <Person> : Jabra Nicola' == '202188 - 202193, <Org> : Jabra'
+'202334 - 202350, <Person> : Mufid Nashashibi' == '<NULL>'
+'202353 - 202358, <Person> : Touma' == '<NULL>'
+'202916 - 202922, <Person> : Calabi' == '<NULL>'
+'203061 - 203076, <Person> : Salomon Bochner' == '<NULL>'
+'203158 - 203164, <Person> : Calabi' == '<NULL>'
+'203343 - 203351, <Person> : Thomas A' == '<NULL>'
+'203355 - 203360, <Person> : Scott' == '<NULL>'
+'203559 - 203565, <Person> : Calabi' == '<NULL>'
+'206750 - 206756, <Person> : AHRISA' == '<NULL>'
+'207287 - 207293, <Person> : Carlos' == '<NULL>'
+'763 - 768, <Org> : 139th' == '<NULL>'
+'1078 - 1107, <Org> : De Trobriand 's 55th New York' == '1078 - 1090, <Person> : De Trobriand'
+'1110 - 1126, <Org> : Gardes Lafayette' == '<NULL>'
+'1267 - 1273, <Org> : 62d NY' == '<NULL>'
+'1276 - 1283, <Org> : 93d PVI' == '<NULL>'
+'1286 - 1294, <Org> : 98th PVI' == '<NULL>'
+'1303 - 1311, <Org> : 102d PVI' == '<NULL>'
+'1440 - 1445, <Org> : 139th' == '<NULL>'
+'1822 - 1827, <Org> : 139th' == '<NULL>'
+'2238 - 2243, <Org> : 139th' == '<NULL>'
+'2403 - 2411, <Org> : VI Corps' == '<NULL>'
+'2698 - 2703, <Org> : 139th' == '<NULL>'
+'2928 - 2939, <Org> : Confederate' == '<NULL>'
+'10201 - 10205, <Org> : NCAA' == '<NULL>'
+'10379 - 10386, <Org> : Falcons' == '<NULL>'
+'10390 - 10403, <Org> : Bowling Green' == '<NULL>'
+'10523 - 10528, <Org> : Tulsa' == '10523 - 10528, <Location> : Tulsa'
+'10537 - 10550, <Org> : Bowling Green' == '<NULL>'
+'10646 - 10653, <Org> : Falcons' == '<NULL>'
+'10811 - 10832, <Org> : Bowling Green Falcons' == '<NULL>'
+'11511 - 11524, <Org> : Bowling Green' == '<NULL>'
+'11617 - 11620, <Org> : MAC' == '<NULL>'
+'11650 - 11672, <Org> : Thirty Seconds to Mars' == '<NULL>'
+'11849 - 11867, <Org> : 30 Seconds to Mars' == '<NULL>'
+'12301 - 12315, <Org> : Virgin Records' == '<NULL>'
+'12336 - 12354, <Org> : 30 Seconds to Mars' == '<NULL>'
+'12809 - 12813, <Org> : Orgy' == '<NULL>'
+'12816 - 12831, <Org> : Velvet Revolver' == '<NULL>'
+'12838 - 12849, <Org> : Linkin Park' == '<NULL>'
+'13116 - 13126, <Org> : BjУЖrkband' == '<NULL>'
+'13266 - 13284, <Org> : 30 Seconds to Mars' == '<NULL>'
+'13826 - 13830, <Org> : MTV2' == '<NULL>'
+'13870 - 13885, <Org> : Head Automatica' == '13875 - 13885, <Person> : Automatica'
+'13888 - 13915, <Org> : The Receiving End of Sirens' == '<NULL>'
+'13918 - 13932, <Org> : Cobra Starship' == '<NULL>'
+'14335 - 14339, <Org> : MTV2' == '<NULL>'
+'14812 - 14820, <Org> : The Used' == '<NULL>'
+'14920 - 14931, <Org> : Linkin Park' == '<NULL>'
+'15601 - 15610, <Org> : Kerrang !' == '<NULL>'
+'15626 - 15644, <Org> : 30 Seconds to Mars' == '<NULL>'
+'15690 - 15699, <Org> : Kerrang !' == '<NULL>'
+'15890 - 15901, <Org> : Madina Lake' == '15890 - 15901, <Person> : Madina Lake'
+'16066 - 16084, <Org> : 30 Seconds to Mars' == '<NULL>'
+'16089 - 16093, <Org> : Fuse' == '<NULL>'
+'16133 - 16137, <Org> : Korn' == '16133 - 16137, <Person> : Korn'
+'16248 - 16259, <Org> : Linkin Park' == '<NULL>'
+'16264 - 16281, <Org> : Avenged Sevenfold' == '<NULL>'
+'16796 - 16803, <Org> : Echelon' == '<NULL>'
+'16844 - 16862, <Org> : 30 Seconds to Mars' == '<NULL>'
+'17777 - 17795, <Org> : 30 Seconds to Mars' == '<NULL>'
+'18724 - 18730, <Org> : Deadsy' == '<NULL>'
+'19735 - 19738, <Org> : FOX' == '<NULL>'
+'20117 - 20122, <Org> : NAACP' == '<NULL>'
+'20597 - 20601, <Org> : 65th' == '<NULL>'
+'20720 - 20726, <Org> : Allied' == '<NULL>'
+'20865 - 20871, <Org> : Allied' == '<NULL>'
+'21525 - 21529, <Org> : 65th' == '<NULL>'
+'21727 - 21754, <Org> : Spanish Air Defense Command' == '21727 - 21734, <Location> : Spanish'
+'21829 - 21833, <Org> : 65th' == '<NULL>'
+'21873 - 21878, <Org> : USAFE' == '<NULL>'
+'22133 - 22160, <Org> : 65 Air Division ( Defense )' == '<NULL>'
+'22339 - 22354, <Org> : 65 Air Division' == '<NULL>'
+'22996 - 23010, <Org> : 3 Air Division' == '<NULL>'
+'23048 - 23073, <Org> : Iceland Air Defense Force' == '<NULL>'
+'23271 - 23285, <Org> : Hamilton Field' == '<NULL>'
+'25180 - 25187, <Org> : 882 6PR' == '<NULL>'
+'25237 - 25240, <Org> : 6PR' == '<NULL>'
+'25338 - 25341, <Org> : 6PR' == '<NULL>'
+'25514 - 25517, <Org> : 6PR' == '<NULL>'
+'25565 - 25568, <Org> : 6PR' == '<NULL>'
+'25603 - 25623, <Org> : Nicholson 's Limited' == '25603 - 25612, <Person> : Nicholson'
+'25722 - 25752, <Org> : Victorian Broadcasting Network' == '<NULL>'
+'25763 - 25775, <Org> : Nicholson 's' == '<NULL>'
+'25832 - 25841, <Org> : Vox Adeon' == '<NULL>'
+'26065 - 26068, <Org> : 6PR' == '<NULL>'
+'26533 - 26536, <Org> : 6PR' == '<NULL>'
+'26756 - 26759, <Org> : 6PR' == '<NULL>'
+'27240 - 27243, <Org> : TAB' == '<NULL>'
+'27254 - 27257, <Org> : 6PR' == '<NULL>'
+'27677 - 27680, <Org> : 6PR' == '<NULL>'
+'27707 - 27710, <Org> : TAB' == '<NULL>'
+'27820 - 27823, <Org> : 6PR' == '<NULL>'
+'27861 - 27873, <Org> : Racing Radio' == '<NULL>'
+'27895 - 27898, <Org> : 6PR' == '<NULL>'
+'28114 - 28117, <Org> : 6PR' == '<NULL>'
+'28242 - 28245, <Org> : 3AW' == '<NULL>'
+'28333 - 28336, <Org> : 6PR' == '<NULL>'
+'28586 - 28593, <Org> : 882 6PR' == '<NULL>'
+'28998 - 29001, <Org> : 6PR' == '<NULL>'
+'29053 - 29070, <Org> : West Coast Eagles' == '<NULL>'
+'29075 - 29092, <Org> : Fremantle Dockers' == '29075 - 29084, <Location> : Fremantle'
+'29321 - 29324, <Org> : 3AW' == '<NULL>'
+'29342 - 29348, <Org> : FIVEaa' == '29342 - 29348, <Location> : FIVEaa'
+'29374 - 29405, <Org> : West Australian Football League' == '29379 - 29389, <Location> : Australian'
+'29441 - 29444, <Org> : 6PR' == '<NULL>'
+'29500 - 29503, <Org> : 6PR' == '<NULL>'
+'29741 - 29745, <Org> : WAFL' == '<NULL>'
+'29769 - 29772, <Org> : AFL' == '<NULL>'
+'29829 - 29840, <Org> : Perth Glory' == '<NULL>'
+'29947 - 29950, <Org> : 6PR' == '<NULL>'
+'30110 - 30113, <Org> : 6PR' == '<NULL>'
+'30117 - 30120, <Org> : 6PR' == '<NULL>'
+'30142 - 30153, <Org> : Perth Glory' == '<NULL>'
+'30182 - 30190, <Org> : A-League' == '<NULL>'
+'30211 - 30229, <Org> : 2007/2008 A-League' == '<NULL>'
+'30237 - 30240, <Org> : 6PR' == '<NULL>'
+'30268 - 30279, <Org> : Perth Glory' == '<NULL>'
+'30303 - 30306, <Org> : 6PR' == '<NULL>'
+'30384 - 30391, <Org> : 882 6PR' == '<NULL>'
+'30413 - 30426, <Org> : Western Force' == '<NULL>'
+'30633 - 30638, <Org> : Force' == '<NULL>'
+'30683 - 30696, <Org> : Western Force' == '<NULL>'
+'30744 - 30751, <Org> : 882 6PR' == '<NULL>'
+'30755 - 30764, <Org> : 883JIA FM' == '<NULL>'
+'30797 - 30808, <Org> : SAFRA Radio' == '<NULL>'
+'30955 - 30964, <Org> : Power98FM' == '<NULL>'
+'31140 - 31149, <Org> : 883Jia FM' == '<NULL>'
+'32433 - 32441, <Org> : FC Basel' == '<NULL>'
+'32519 - 32536, <Org> : FC Lausanne-Sport' == '<NULL>'
+'32640 - 32648, <Org> : Lausanne' == '32640 - 32648, <Location> : Lausanne'
+'32668 - 32676, <Org> : FC Basel' == '<NULL>'
+'32827 - 32836, <Org> : Under-19s' == '<NULL>'
+'32845 - 32854, <Org> : Aero Gare' == '<NULL>'
+'33015 - 33030, <Org> : Aero Composites' == '<NULL>'
+'34147 - 34189, <Org> : Towarzystwo Pomocy Naukowej dla dziewczФt' == '<NULL>'
+'37293 - 37304, <Org> : Formula One' == '<NULL>'
+'37380 - 37394, <Org> : Motori Moderni' == '<NULL>'
+'38303 - 38317, <Org> : Liberal-Labour' == '<NULL>'
+'38389 - 38403, <Org> : Liberal-Labour' == '<NULL>'
+'38744 - 38769, <Org> : United Farmers of Ontario' == '<NULL>'
+'39725 - 39738, <Org> : Carnegie Hall' == '39725 - 39733, <Person> : Carnegie'
+'40391 - 40409, <Org> : Paxton Water Tower' == '<NULL>'
+'41076 - 41080, <Org> : AHAC' == '<NULL>'
+'41089 - 41093, <Org> : AHAC' == '<NULL>'
+'41612 - 41616, <Org> : AHAC' == '<NULL>'
+'42697 - 42701, <Org> : AHAC' == '<NULL>'
+'43032 - 43036, <Org> : AHAC' == '<NULL>'
+'43214 - 43231, <Org> : Montreal Crystals' == '<NULL>'
+'43294 - 43298, <Org> : AHAC' == '<NULL>'
+'43366 - 43384, <Org> : Montreal Victorias' == '43366 - 43384, <Person> : Montreal Victorias'
+'43419 - 43428, <Org> : Victorias' == '<NULL>'
+'43496 - 43504, <Org> : Crystals' == '<NULL>'
+'43567 - 43571, <Org> : Vics' == '<NULL>'
+'43735 - 43739, <Org> : Vics' == '<NULL>'
+'43748 - 43768, <Org> : Montreal Hockey Club' == '<NULL>'
+'43771 - 43782, <Org> : Montreal HC' == '<NULL>'
+'43907 - 43916, <Org> : Victorias' == '<NULL>'
+'43965 - 43976, <Org> : Montreal HC' == '<NULL>'
+'44068 - 44072, <Org> : AHAC' == '<NULL>'
+'44161 - 44165, <Org> : AHAC' == '<NULL>'
+'44507 - 44527, <Org> : Montreal Hockey Club' == '<NULL>'
+'44588 - 44608, <Org> : Montreal Hockey Club' == '<NULL>'
+'44794 - 44798, <Org> : MAAA' == '<NULL>'
+'44927 - 44931, <Org> : MAAA' == '<NULL>'
+'45138 - 45142, <Org> : MAAA' == '<NULL>'
+'45284 - 45288, <Org> : MAAA' == '<NULL>'
+'45558 - 45562, <Org> : MAAA' == '<NULL>'
+'45716 - 45720, <Org> : MAAA' == '<NULL>'
+'45830 - 45841, <Org> : Montreal HC' == '<NULL>'
+'45851 - 45855, <Org> : MAAA' == '<NULL>'
+'46162 - 46179, <Org> : Montreal Crystals' == '<NULL>'
+'46224 - 46244, <Org> : Montreal Hockey Club' == '<NULL>'
+'47227 - 47239, <Org> : Black Pepper' == '<NULL>'
+'47382 - 47411, <Org> : The Times Literary Supplement' == '<NULL>'
+'47414 - 47420, <Org> : Poetry' == '<NULL>'
+'47435 - 47448, <Org> : Poetry London' == '<NULL>'
+'47451 - 47465, <Org> : The Australian' == '47455 - 47465, <Person> : Australian'
+'47468 - 47477, <Org> : Antipodes' == '<NULL>'
+'50741 - 50769, <Org> : Reproductive Freedom Project' == '<NULL>'
+'51659 - 51675, <Org> : Court of Appeals' == '<NULL>'
+'51687 - 51691, <Org> : ACLU' == '<NULL>'
+'51782 - 51819, <Org> : George Washington University Hospital' == '<NULL>'
+'53900 - 53904, <Org> : 1235' == '<NULL>'
+'53911 - 53918, <Org> : Mansion' == '<NULL>'
+'53923 - 53932, <Org> : Les Bains' == '<NULL>'
+'53941 - 53946, <Org> : Chaos' == '<NULL>'
+'53951 - 53966, <Org> : Le Loft & Dunes' == '<NULL>'
+'53975 - 53981, <Org> : Liquid' == '<NULL>'
+'53988 - 53993, <Org> : Suite' == '<NULL>'
+'54018 - 54024, <Org> : Crobar' == '<NULL>'
+'54029 - 54036, <Org> : Penrods' == '<NULL>'
+'54043 - 54054, <Org> : Nikki Beach' == '<NULL>'
+'54057 - 54062, <Org> : Pearl' == '<NULL>'
+'54623 - 54636, <Org> : Shadow Lounge' == '<NULL>'
+'54639 - 54645, <Org> : Liquid' == '<NULL>'
+'54659 - 54664, <Org> : Lua's' == '54659 - 54662, <Person> : Lua'
+'55030 - 55047, <Org> : NOK Entertainment' == '<NULL>'
+'55266 - 55277, <Org> : Nikki Beach' == '<NULL>'
+'55280 - 55285, <Org> : Pearl' == '<NULL>'
+'55288 - 55296, <Org> : Hardrock' == '<NULL>'
+'55299 - 55311, <Org> : Ivy Aventura' == '<NULL>'
+'55314 - 55321, <Org> : Mansion' == '<NULL>'
+'55324 - 55336, <Org> : Opium-Prive'' == '<NULL>'
+'55339 - 55345, <Org> : Crobar' == '<NULL>'
+'55348 - 55362, <Org> : Suite & Snatch' == '<NULL>'
+'55365 - 55370, <Org> : Amika' == '<NULL>'
+'55373 - 55377, <Org> : Mynt' == '<NULL>'
+'55380 - 55389, <Org> : Pawn Shop' == '<NULL>'
+'55392 - 55401, <Org> : The Forge' == '<NULL>'
+'55404 - 55412, <Org> : Club BED' == '<NULL>'
+'55916 - 55919, <Org> : NOK' == '<NULL>'
+'56564 - 56585, <Org> : Hootie & the Blowfish' == '56577 - 56585, <Person> : Blowfish'
+'57151 - 57156, <Org> : FOX 7' == '<NULL>'
+'57159 - 57168, <Org> : Telemundo' == '57159 - 57168, <Person> : Telemundo'
+'57183 - 57187, <Org> : MUN2' == '<NULL>'
+'57190 - 57192, <Org> : A3' == '<NULL>'
+'57195 - 57198, <Org> : MTV' == '<NULL>'
+'57201 - 57212, <Org> : Wild on E !' == '<NULL>'
+'57506 - 57523, <Org> : ERJ International' == '<NULL>'
+'59339 - 59349, <Org> : Republican' == '<NULL>'
+'59493 - 59516, <Org> : Constitutional Monarchy' == '<NULL>'
+'61981 - 61987, <Org> : Allies' == '<NULL>'
+'62693 - 62724, <Org> : British Commonwealth of Nations' == '62693 - 62724, <Location> : British Commonwealth of Nations'
+'63762 - 63771, <Org> : Van Canto' == '<NULL>'
+'64025 - 64064, <Org> : Organismos Astikon Syngoinonion Athinon' == '<NULL>'
+'64067 - 64102, <Org> : Athens Urban Transport Organisation' == '64067 - 64073, <Location> : Athens'
+'64185 - 64189, <Org> : AMEL' == '<NULL>'
+'64219 - 64231, <Org> : Attiko Metro' == '<NULL>'
+'64346 - 64362, <Org> : Proastiakos S.A.' == '64346 - 64362, <Person> : Proastiakos S.A.'
+'65450 - 65456, <Org> : League' == '<NULL>'
+'65526 - 65532, <Org> : League' == '<NULL>'
+'65868 - 65874, <Org> : League' == '<NULL>'
+'66161 - 66167, <Org> : League' == '<NULL>'
+'66595 - 66601, <Org> : League' == '<NULL>'
+'66660 - 66695, <Org> : Australian National Socialist Party' == '<NULL>'
+'66725 - 66730, <Org> : Labor' == '<NULL>'
+'66751 - 66772, <Org> : Australia First Party' == '66751 - 66760, <Location> : Australia'
+'66841 - 66847, <Org> : League' == '<NULL>'
+'66887 - 66897, <Org> : One Nation' == '66891 - 66897, <Location> : Nation'
+'66902 - 66917, <Org> : Australia First' == '<NULL>'
+'66947 - 66962, <Org> : Australia First' == '66947 - 66956, <Location> : Australia'
+'66991 - 66997, <Org> : League' == '<NULL>'
+'67080 - 67090, <Org> : One Nation' == '67084 - 67090, <Location> : Nation'
+'67182 - 67186, <Org> : ALOR' == '<NULL>'
+'67396 - 67435, <Org> : Australians Against Further Immigration' == '<NULL>'
+'67438 - 67442, <Org> : AAFI' == '<NULL>'
+'67451 - 67461, <Org> : One Nation' == '67455 - 67461, <Location> : Nation'
+'67519 - 67535, <Org> : League of Rights' == '<NULL>'
+'67580 - 67596, <Org> : League of Rights' == '<NULL>'
+'67643 - 67647, <Org> : ALOR' == '<NULL>'
+'67682 - 67697, <Org> : National Action' == '67682 - 67690, <Location> : National'
+'67734 - 67740, <Org> : League' == '<NULL>'
+'67774 - 67801, <Org> : National Party of Australia' == '67774 - 67782, <Location> : National'
+'67968 - 67974, <Org> : League' == '<NULL>'
+'68162 - 68176, <Org> : National Party' == '68162 - 68170, <Location> : National'
+'68221 - 68226, <Org> : Labor' == '<NULL>'
+'68545 - 68563, <Org> : John Birch Society' == '68545 - 68555, <Person> : John Birch'
+'68642 - 68648, <Org> : League' == '<NULL>'
+'69054 - 69067, <Org> : Outback Press' == '69054 - 69067, <Person> : Outback Press'
+'69139 - 69151, <Org> : The Triffids' == '<NULL>'
+'70721 - 70743, <Org> : Badminton Hall of Fame' == '<NULL>'
+'70905 - 70931, <Org> : USA Badminton Hall of Fame' == '70905 - 70908, <Location> : USA'
+'70938 - 70970, <Org> : Badminton Canada 's Hall of Fame' == '70948 - 70954, <Location> : Canada'
+'71387 - 71390, <Org> : BWF' == '<NULL>'
+'71561 - 71587, <Org> : Badminton World Federation' == '<NULL>'
+'71590 - 71593, <Org> : BWF' == '<NULL>'
+'72281 - 72294, <Org> : Sitamma Konda' == '<NULL>'
+'72299 - 72309, <Org> : Ramakuppam' == '<NULL>'
+'73370 - 73387, <Org> : Bangladesh Scouts' == '<NULL>'
+'75065 - 75084, <Org> : American Boy Scouts' == '75065 - 75073, <Location> : American'
+'75139 - 75160, <Org> : Boy Scouts of America' == '75153 - 75160, <Location> : America'
+'82285 - 82293, <Org> : Red Lion' == '<NULL>'
+'82396 - 82409, <Org> : Hyatt Regency' == '82396 - 82401, <Person> : Hyatt'
+'82487 - 82495, <Org> : BCSWomen' == '<NULL>'
+'82877 - 82894, <Org> : Euronext Brussels' == '82886 - 82894, <Location> : Brussels'
+'84548 - 84568, <Org> : Rochester Jeffersons' == '84548 - 84557, <Location> : Rochester'
+'84573 - 84587, <Org> : Buffalo Bisons' == '84573 - 84580, <Location> : Buffalo'
+'89991 - 90001, <Org> : Quiksilver' == '<NULL>'
+'90066 - 90071, <Org> : Morey' == '90066 - 90071, <Person> : Morey'
+'91518 - 91526, <Org> : Movement' == '<NULL>'
+'91812 - 91820, <Org> : Movement' == '<NULL>'
+'95234 - 95239, <Org> : Bilka' == '<NULL>'
+'95404 - 95421, <Org> : Dansk Supermarked' == '<NULL>'
+'95434 - 95439, <Org> : Bilka' == '95434 - 95439, <Person> : Bilka'
+'95682 - 95687, <Org> : Bilka' == '<NULL>'
+'96045 - 96049, <Org> : NCAA' == '<NULL>'
+'96679 - 96696, <Org> : Houston Chronicle' == '<NULL>'
+'96830 - 96834, <Org> : NCAA' == '<NULL>'
+'97141 - 97150, <Org> : Longhorns' == '<NULL>'
+'97760 - 97810, <Org> : University of Texas Men 's Athletics Hall of Honor' == '97780 - 97783, <Person> : Men'
+'98074 - 98089, <Org> : Odessa American' == '98074 - 98080, <Location> : Odessa'
+'98259 - 98268, <Org> : Longhorns' == '<NULL>'
+'98352 - 98377, <Org> : Austin American-Statesman' == '98352 - 98358, <Location> : Austin'
+'98438 - 98462, <Org> : Fort Worth Star-Telegram' == '98438 - 98448, <Location> : Fort Worth'
+'98546 - 98560, <Org> : Texas Longhorn' == '<NULL>'
+'98646 - 98649, <Org> : NFL' == '98646 - 98649, <Person> : NFL'
+'98659 - 98674, <Org> : Baltimore Colts' == '98659 - 98668, <Location> : Baltimore'
+'98766 - 98774, <Org> : Patriots' == '<NULL>'
+'98920 - 98939, <Org> : St. Louis Cardinals' == '98920 - 98929, <Location> : St. Louis'
+'99075 - 99080, <Org> : Cards' == '<NULL>'
+'99120 - 99124, <Org> : Jets' == '<NULL>'
+'99177 - 99180, <Org> : NFL' == '<NULL>'
+'99411 - 99427, <Org> : St. Louis Eagles' == '<NULL>'
+'99432 - 99445, <Org> : Boston Bruins' == '99432 - 99445, <Person> : Boston Bruins'
+'99552 - 99568, <Org> : St. Louis Eagles' == '<NULL>'
+'99673 - 99679, <Org> : Bruins' == '<NULL>'
+'99894 - 99900, <Org> : Bruins' == '<NULL>'
+'99977 - 99983, <Org> : Bruins' == '<NULL>'
+'100403 - 100406, <Org> : NHL' == '<NULL>'
+'100478 - 100494, <Org> : St. Louis Eagles' == '<NULL>'
+'100585 - 100602, <Org> : Vancouver Canucks' == '100585 - 100594, <Location> : Vancouver'
+'100610 - 100614, <Org> : PCHL' == '<NULL>'
+'100643 - 100653, <Org> : Ottawa 67s' == '100643 - 100649, <Location> : Ottawa'
+'100706 - 100725, <Org> : Hockey Hall of Fame' == '<NULL>'
+'101569 - 101585, <Org> : Boilerhouse Boys' == '101565 - 101585, <Person> : The Boilerhouse Boys'
+'102586 - 102590, <Org> : BIRT' == '<NULL>'
+'104406 - 104413, <Org> : Hinkley' == '<NULL>'
+'110400 - 110420, <Org> : Standard Oil Company' == '<NULL>'
+'111005 - 111009, <Org> : BCIT' == '<NULL>'
+'111329 - 111333, <Org> : BCIT' == '<NULL>'
+'111743 - 111747, <Org> : BCIT' == '<NULL>'
+'111944 - 111948, <Org> : BCIT' == '<NULL>'
+'112041 - 112045, <Org> : BCIT' == '<NULL>'
+'112132 - 112136, <Org> : BCIT' == '<NULL>'
+'112431 - 112449, <Org> : Pittsburgh Pirates' == '112431 - 112441, <Location> : Pittsburgh'
+'112619 - 112632, <Org> : Boston Braves' == '112619 - 112625, <Location> : Boston'
+'112713 - 112720, <Org> : Pirates' == '<NULL>'
+'112884 - 112905, <Org> : Baseball Hall of Fame' == '<NULL>'
+'113938 - 113941, <Org> : CIA' == '<NULL>'
+'116251 - 116256, <Org> : Caloi' == '<NULL>'
+'116368 - 116373, <Org> : Caloi' == '<NULL>'
+'116439 - 116444, <Org> : Caloi' == '<NULL>'
+'116529 - 116534, <Org> : Caloi' == '<NULL>'
+'116556 - 116561, <Org> : Caloi' == '<NULL>'
+'116635 - 116640, <Org> : Caloi' == '<NULL>'
+'116761 - 116776, <Org> : Casa Luiz Caloi' == '116761 - 116776, <Person> : Casa Luiz Caloi'
+'116794 - 116813, <Org> : House of Luiz Caloi' == '116803 - 116813, <Person> : Luiz Caloi'
+'116819 - 116837, <Org> : Casa IrmУЃos Caloi' == '116819 - 116837, <Person> : Casa IrmУЃos Caloi'
+'116855 - 116877, <Org> : Houseof Caloi Brothers' == '116855 - 116877, <Person> : Houseof Caloi Brothers'
+'117001 - 117006, <Org> : Caloi' == '<NULL>'
+'117086 - 117130, <Org> : IndУКstria e ComУЉrcio de Bicicletas Caloi S' == '<NULL>'
+'117269 - 117274, <Org> : Caloi' == '<NULL>'
+'117443 - 117448, <Org> : Caloi' == '<NULL>'
+'117639 - 117643, <Org> : Eels' == '<NULL>'
+'117976 - 117995, <Org> : Canadian Geographic' == '117985 - 117995, <Person> : Geographic'
+'118216 - 118226, <Org> : Deltasonic' == '<NULL>'
+'118341 - 118351, <Org> : The Zutons' == '<NULL>'
+'120272 - 120289, <Org> : Sunderland A.F.C.' == '<NULL>'
+'120881 - 120902, <Org> : World Series of Poker' == '<NULL>'
+'120905 - 120909, <Org> : WSOP' == '<NULL>'
+'121669 - 121674, <Org> : Crown' == '<NULL>'
+'123627 - 123632, <Org> : Decca' == '<NULL>'
+'124009 - 124024, <Org> : Waldorf-Astoria' == '124009 - 124024, <Person> : Waldorf-Astoria'
+'124038 - 124050, <Org> : Palmer House' == '<NULL>'
+'124073 - 124086, <Org> : Coconut Grove' == '124081 - 124086, <Person> : Grove'
+'125447 - 125465, <Org> : Dave Matthews Band' == '125447 - 125460, <Person> : Dave Matthews'
+'126266 - 126273, <Org> : Secrets' == '<NULL>'
+'126523 - 126531, <Org> : Miller's' == '126523 - 126529, <Person> : Miller'
+'126628 - 126639, <Org> : Blue Indigo' == '<NULL>'
+'126717 - 126728, <Org> : Blue Indigo' == '<NULL>'
+'126752 - 126762, <Org> : Tokyo Rose' == '126752 - 126757, <Location> : Tokyo'
+'126767 - 126775, <Org> : Miller's' == '<NULL>'
+'127030 - 127033, <Org> : DMB' == '<NULL>'
+'127366 - 127382, <Org> : Vertical Horizon' == '<NULL>'
+'127416 - 127430, <Org> : Blues Traveler' == '<NULL>'
+'127455 - 127484, <Org> : Bela Fleck and the Flecktones' == '<NULL>'
+'127641 - 127648, <Org> : Ivey 's' == '<NULL>'
+'127653 - 127664, <Org> : Hudson Belk' == '127660 - 127664, <Location> : Belk'
+'127753 - 127764, <Org> : Thalhimer's' == '<NULL>'
+'127783 - 127788, <Org> : Sears' == '127783 - 127788, <Person> : Sears'
+'127807 - 127824, <Org> : Cary Towne Center' == '<NULL>'
+'127887 - 127894, <Org> : Ivey 's' == '<NULL>'
+'127939 - 127951, <Org> : Thalhimer 's' == '<NULL>'
+'127959 - 127967, <Org> : Hecht 's' == '127959 - 127964, <Person> : Hecht'
+'128050 - 128067, <Org> : Cary Towne Center' == '<NULL>'
+'128122 - 128138, <Org> : Cary Town Center' == '<NULL>'
+'128146 - 128163, <Org> : Cary Towne Centre' == '<NULL>'
+'128213 - 128230, <Org> : Cary Village Mall' == '<NULL>'
+'128283 - 128293, <Org> : CBS , Inc.' == '<NULL>'
+'128454 - 128463, <Org> : CBS Cable' == '<NULL>'
+'128490 - 128493, <Org> : CBS' == '<NULL>'
+'129113 - 129122, <Org> : CBS Cable' == '<NULL>'
+'129409 - 129412, <Org> : MTV' == '<NULL>'
+'129417 - 129421, <Org> : ESPN' == '<NULL>'
+'129509 - 129518, <Org> : CBS Cable' == '<NULL>'
+'129633 - 129646, <Org> : Eye On People' == '<NULL>'
+'129762 - 129788, <Org> : Centennial Convention Hall' == '129762 - 129772, <Location> : Centennial'
+'129886 - 129902, <Org> : Centennial Tower' == '<NULL>'
+'129907 - 129918, <Org> : PlazaCenter' == '<NULL>'
+'130121 - 130137, <Org> : Centennial Tower' == '<NULL>'
+'130605 - 130620, <Org> : Cesaroni Design' == '<NULL>'
+'130745 - 130760, <Org> : Cesaroni Design' == '<NULL>'
+'130916 - 130931, <Org> : Cesaroni Design' == '<NULL>'
+'131021 - 131036, <Org> : Cesaroni Design' == '<NULL>'
+'131119 - 131127, <Org> : Sub-Zero' == '131119 - 131127, <Person> : Sub-Zero'
+'131130 - 131143, <Org> : Herman Miller' == '<NULL>'
+'131146 - 131159, <Org> : KaVo / Gendex' == '<NULL>'
+'131162 - 131167, <Org> : SHURE' == '<NULL>'
+'131172 - 131183, <Org> : LifeFitness' == '<NULL>'
+'131323 - 131340, <Org> : Oakland Athletics' == '131323 - 131330, <Location> : Oakland'
+'131344 - 131365, <Org> : Major League Baseball' == '<NULL>'
+'131536 - 131556, <Org> : Tampa Bay Devil Rays' == '<NULL>'
+'131636 - 131657, <Org> : Major League Baseball' == '<NULL>'
+'131756 - 131764, <Org> : Single A' == '<NULL>'
+'131926 - 131951, <Org> : Class A California League' == '<NULL>'
+'132020 - 132035, <Org> : AA Orlando Rays' == '132023 - 132030, <Person> : Orlando'
+'132060 - 132077, <Org> : Jacksonville Suns' == '<NULL>'
+'132230 - 132251, <Org> : Major League Baseball' == '<NULL>'
+'132433 - 132443, <Org> : Devil Rays' == '132439 - 132445, <Person> : Rays ''
+'132575 - 132584, <Org> : Devil Ray' == '<NULL>'
+'132789 - 132799, <Org> : Devil Rays' == '<NULL>'
+'132895 - 132905, <Org> : AAA Durham' == '132895 - 132905, <Person> : AAA Durham'
+'132958 - 132975, <Org> : Toronto Blue Jays' == '132958 - 132965, <Location> : Toronto'
+'133050 - 133062, <Org> : AAA Syracuse' == '<NULL>'
+'133137 - 133146, <Org> : Blue Jays' == '<NULL>'
+'133266 - 133275, <Org> : Athletics' == '<NULL>'
+'133403 - 133424, <Org> : Sacramento River Cats' == '<NULL>'
+'133431 - 133449, <Org> : Athletics Triple A' == '<NULL>'
+'133481 - 133490, <Org> : Athletics' == '<NULL>'
+'133537 - 133547, <Org> : River Cats' == '<NULL>'
+'133650 - 133658, <Org> : Athletic' == '<NULL>'
+'135823 - 135826, <Org> : NFP' == '<NULL>'
+'136151 - 136155, <Org> : UNLP' == '<NULL>'
+'136266 - 136285, <Org> : Labasa Rural Indian' == '136266 - 136307, <Location> : Labasa Rural Indian Communal Constituency'
+'136424 - 136427, <Org> : NFP' == '<NULL>'
+'136596 - 136600, <Org> : NAPF' == '<NULL>'
+'136701 - 136717, <Org> : Australian rules' == '136701 - 136711, <Location> : Australian'
+'136759 - 136774, <Org> : North Melbourne' == '<NULL>'
+'136782 - 136785, <Org> : VFL' == '<NULL>'
+'136810 - 136825, <Org> : North Melbourne' == '<NULL>'
+'136918 - 136927, <Org> : Footscray' == '<NULL>'
+'136993 - 136996, <Org> : VFA' == '<NULL>'
+'137018 - 137024, <Org> : Coburg' == '137018 - 137024, <Location> : Coburg'
+'137049 - 137055, <Org> : Coburg' == '<NULL>'
+'137098 - 137113, <Org> : North Melbourne' == '<NULL>'
+'137324 - 137339, <Org> : North Melbourne' == '<NULL>'
+'137819 - 137853, <Org> : Partido Democrata-CristУЃ de Timor' == '<NULL>'
+'140407 - 140423, <Org> : Orlando Sentinel' == '<NULL>'
+'140890 - 140921, <Org> : Adolescent Life Coaching Center' == '<NULL>'
+'141562 - 141564, <Org> : F1' == '<NULL>'
+'141657 - 141662, <Org> : CENAV' == '<NULL>'
+'141888 - 141897, <Org> : Vendorado' == '141888 - 141897, <Person> : Vendorado'
+'142034 - 142037, <Org> : CPZ' == '<NULL>'
+'142279 - 142288, <Org> : Formula 3' == '<NULL>'
+'143373 - 143379, <Org> : SimBin' == '<NULL>'
+'145104 - 145114, <Org> : Laboratory' == '<NULL>'
+'145917 - 145935, <Org> : Cold Spring Harbor' == '<NULL>'
+'146188 - 146217, <Org> : Cold Spring Harbor Laboratory' == '<NULL>'
+'146262 - 146266, <Org> : CSHL' == '<NULL>'
+'147087 - 147109, <Org> : Eugenics Record Office' == '<NULL>'
+'147246 - 147266, <Org> : Carnegie Institution' == '<NULL>'
+'147322 - 147325, <Org> : ERO' == '<NULL>'
+'147408 - 147411, <Org> : ERO' == '<NULL>'
+'148904 - 148908, <Org> : CSHL' == '<NULL>'
+'149830 - 149833, <Org> : WTA' == '<NULL>'
+'150118 - 150137, <Org> : Connecticut Lottery' == '150118 - 150129, <Location> : Connecticut'
+'151066 - 151085, <Org> : Connecticut Lottery' == '<NULL>'
+'151468 - 151487, <Org> : Connecticut Lottery' == '<NULL>'
+'152225 - 152244, <Org> : Connecticut Lottery' == '<NULL>'
+'152889 - 152921, <Org> : Coronado Unified School District' == '152906 - 152921, <Location> : School District'
+'153330 - 153362, <Org> : London and South Western Railway' == '153330 - 153336, <Location> : London'
+'153365 - 153369, <Org> : LSWR' == '<NULL>'
+'153491 - 153508, <Org> : South West Trains' == '<NULL>'
+'153511 - 153519, <Org> : Southern' == '153511 - 153519, <Person> : Southern'
+'154254 - 154263, <Org> : Crazyhead' == '<NULL>'
+'154475 - 154486, <Org> : The Ramones' == '<NULL>'
+'154489 - 154500, <Org> : The Stooges' == '<NULL>'
+'154505 - 154522, <Org> : Captain Beefheart' == '<NULL>'
+'154748 - 154765, <Org> : The Phantom Horns' == '<NULL>'
+'154773 - 154791, <Org> : The Space Bastards' == '<NULL>'
+'154847 - 154851, <Org> : Food' == '<NULL>'
+'155070 - 155078, <Org> : The Cult' == '<NULL>'
+'155888 - 155898, <Org> : Skin Games' == '<NULL>'
+'155903 - 155914, <Org> : Jesus Jones' == '155903 - 155914, <Person> : Jesus Jones'
+'156105 - 156117, <Org> : Food Records' == '<NULL>'
+'156191 - 156207, <Org> : Revolver Records' == '<NULL>'
+'156672 - 156683, <Org> : The Mission' == '<NULL>'
+'156978 - 157000, <Org> : Crown Pacific Partners' == '<NULL>'
+'158081 - 158088, <Org> : i-DANCE' == '<NULL>'
+'158100 - 158115, <Org> : Intercord Japan' == '<NULL>'
+'158533 - 158540, <Org> : Liberal' == '<NULL>'
+'158957 - 158966, <Org> : Divizia A' == '<NULL>'
+'158972 - 158989, <Org> : Steaua BucureХti' == '<NULL>'
+'159048 - 159054, <Org> : Steaua' == '<NULL>'
+'159138 - 159145, <Org> : Rangers' == '<NULL>'
+'159793 - 159799, <Org> : Oxford' == '<NULL>'
+'159946 - 159956, <Org> : Runemagick' == '<NULL>'
+'159987 - 160004, <Org> : Aftermath Records' == '<NULL>'
+'160072 - 160087, <Org> : Dark Room Notes' == '<NULL>'
+'160533 - 160540, <Org> : Village' == '<NULL>'
+'160633 - 160642, <Org> : New Order' == '<NULL>'
+'160713 - 160716, <Org> : DRN' == '<NULL>'
+'160916 - 160931, <Org> : Dark Room Notes' == '<NULL>'
+'161200 - 161213, <Org> : Cyprus Avenue' == '161200 - 161213, <Location> : Cyprus Avenue'
+'161237 - 161249, <Org> : Spirit Store' == '<NULL>'
+'161277 - 161290, <Org> : Tower Records' == '<NULL>'
+'161301 - 161310, <Org> : Crawdaddy' == '161301 - 161310, <Location> : Crawdaddy'
+'161348 - 161359, <Org> : Roisin Dubh' == '161355 - 161359, <Location> : Dubh'
+'161977 - 161979, <Org> : MS' == '<NULL>'
+'162218 - 162224, <Org> : Datecs' == '<NULL>'
+'162401 - 162408, <Org> : Samsung' == '<NULL>'
+'162777 - 162783, <Org> : Datecs' == '<NULL>'
+'164145 - 164169, <Org> : university of Pittsburgh' == '<NULL>'
+'164429 - 164460, <Org> : American Scientific Affiliation' == '164429 - 164437, <Location> : American'
+'164812 - 164843, <Org> : American Scientific Affiliation' == '164812 - 164820, <Location> : American'
+'165330 - 165345, <Org> : Protein Science' == '<NULL>'
+'165554 - 165580, <Org> : Dover Area School District' == '<NULL>'
+'166702 - 166726, <Org> : Defamation Action League' == '<NULL>'
+'166806 - 166830, <Org> : Defamation Action League' == '<NULL>'
+'166887 - 166911, <Org> : Defamation Action League' == '<NULL>'
+'167944 - 167956, <Org> : Jars of Clay' == '<NULL>'
+'168336 - 168347, <Org> : Meyer Music' == '<NULL>'
+'169386 - 169396, <Org> : Government' == '<NULL>'
+'169846 - 169850, <Org> : Gigi' == '<NULL>'
+'169997 - 170011, <Org> : Weather Report' == '<NULL>'
+'170072 - 170081, <Org> : Squirrell' == '<NULL>'
+'171533 - 171553, <Org> : Mahavishnu Orchestra' == '<NULL>'
+'171570 - 171573, <Org> : Yes' == '<NULL>'
+'171576 - 171588, <Org> : Gentle Giant' == '<NULL>'
+'171591 - 171597, <Org> : Kansas' == '<NULL>'
+'171600 - 171615, <Org> : Tangerine Dream' == '171600 - 171609, <Person> : Tangerine'
+'171618 - 171633, <Org> : American Garage' == '171618 - 171626, <Location> : American'
+'171636 - 171652, <Org> : Bright Size Life' == '<NULL>'
+'171786 - 171794, <Org> : Squirrel' == '<NULL>'
+'171888 - 171902, <Org> : Teater Terbuka' == '<NULL>'
+'172454 - 172460, <Org> : Spirit' == '<NULL>'
+'172486 - 172490, <Org> : Gigi' == '172486 - 172490, <Person> : Gigi'
+'172529 - 172535, <Org> : Spirit' == '<NULL>'
+'172621 - 172630, <Org> : Java Jazz' == '<NULL>'
+'172689 - 172706, <Org> : Jimmy Manopo Band' == '172689 - 172701, <Person> : Jimmy Manopo'
+'172709 - 172721, <Org> : Erwin Gutawa' == '<NULL>'
+'172724 - 172740, <Org> : Elfa 's Big Band' == '<NULL>'
+'172745 - 172762, <Org> : Twilite Orchestra' == '<NULL>'
+'172893 - 172897, <Org> : Gigi' == '<NULL>'
+'173014 - 173018, <Org> : Gigi' == '<NULL>'
+'173334 - 173350, <Org> : Klein and Gibson' == '<NULL>'
+'173412 - 173417, <Org> : Klein' == '<NULL>'
+'176438 - 176451, <Org> : zoviet*france' == '<NULL>'
+'176641 - 176662, <Org> : Soleilmoon Recordings' == '<NULL>'
+'178018 - 178034, <Org> : Distance Records' == '<NULL>'
+'179370 - 179381, <Org> : Porne Tirth' == '<NULL>'
+'182939 - 182951, <Org> : Se Cathedral' == '<NULL>'
+'183415 - 183428, <Org> : the Nazarenes' == '<NULL>'
+'183751 - 183764, <Org> : ZiegelstraУe' == '<NULL>'
+'186376 - 186387, <Org> : Third Reich' == '186376 - 186387, <Location> : Third Reich'
+'187817 - 187831, <Org> : The Newlydeads' == '<NULL>'
+'188052 - 188060, <Org> : Siouxsie' == '<NULL>'
+'193206 - 193212, <Org> : No. 18' == '<NULL>'
+'193215 - 193238, <Org> : Netherlands East Indies' == '193215 - 193226, <Location> : Netherlands'
+'193458 - 193464, <Org> : No. 18' == '<NULL>'
+'193501 - 193508, <Org> : No. 120' == '<NULL>'
+'193952 - 193987, <Org> : East Germany national handball team' == '193957 - 193964, <Location> : Germany'
+'194175 - 194184, <Org> : Staedtler' == '<NULL>'
+'194232 - 194246, <Org> : Eberhard Faber' == '<NULL>'
+'194393 - 194399, <Org> : Newell' == '<NULL>'
+'194402 - 194409, <Org> : Sanford' == '<NULL>'
+'194443 - 194453, <Org> : Paper Mate' == '<NULL>'
+'194475 - 194489, <Org> : Eberhard Faber' == '<NULL>'
+'195171 - 195186, <Org> : God Street Wine' == '<NULL>'
+'197646 - 197660, <Org> : Google Ask.com' == '<NULL>'
+'199314 - 199316, <Org> : SS' == '<NULL>'
+'200844 - 200859, <Org> : Anti-Jacksonian' == '<NULL>'
+'202966 - 202969, <Org> : MIT' == '<NULL>'
+'203768 - 203793, <Org> : State Railway of Thailand' == '203768 - 203773, <Location> : State'
+'204267 - 204277, <Org> : Amuseworld' == '204267 - 204277, <Person> : Amuseworld'
+'204331 - 204337, <Org> : Konami' == '<NULL>'
+'207261 - 207273, <Org> : Ruby Tuesday' == '207261 - 207265, <Person> : Ruby'
+'207525 - 207531, <Org> : Konami' == '<NULL>'
+'207571 - 207582, <Org> : Amuse World' == '<NULL>'
+'207586 - 207592, <Org> : Konami' == '<NULL>'
+'207632 - 207643, <Org> : Amuse World' == '<NULL>'
+'207813 - 207824, <Org> : Amuse World' == '<NULL>'
+'207832 - 207838, <Org> : Konami' == '<NULL>'
+'207896 - 207906, <Org> : Amuseworld' == '<NULL>'
+'207926 - 207932, <Org> : KONAMI' == '<NULL>'
+'207957 - 207974, <Org> : Fairfax Connector' == '<NULL>'
+'208170 - 208178, <Org> : Metrobus' == '<NULL>'
+'208203 - 208249, <Org> : Washington Metropolitan Area Transit Authority' == '208203 - 208213, <Location> : Washington'
+'208584 - 208601, <Org> : Fairfax Connector' == '<NULL>'
+'209100 - 209108, <Org> : Metrobus' == '<NULL>'
+'209148 - 209165, <Org> : Fairfax Connector' == '<NULL>'
+'209175 - 209183, <Org> : SmarTrip' == '<NULL>'
+'209753 - 209770, <Org> : Fairfax Connector' == '<NULL>'
+'209895 - 209909, <Org> : Fairmont State' == '209895 - 209909, <Location> : Fairmont State'
+'210511 - 210533, <Org> : Fairmont State College' == '210520 - 210533, <Location> : State College'
+'210556 - 210581, <Org> : Fairmont State University' == '<NULL>'
+'210785 - 210788, <Org> : FSU' == '<NULL>'
+'210916 - 210919, <Org> : FSU' == '<NULL>'
+'211124 - 211138, <Org> : Fairmont State' == '<NULL>'
+'211172 - 211179, <Org> : Falcons' == '<NULL>'
+'315 - 317, <Location> : UK' == '<NULL>'
+'783 - 792, <Location> : Camp Howe' == '<NULL>'
+'1425 - 1432, <Location> : Potomac' == '<NULL>'
+'1531 - 1541, <Location> : Sandy Hook' == '<NULL>'
+'2514 - 2520, <Location> : Valley' == '<NULL>'
+'2680 - 2690, <Location> : Petersburg' == '<NULL>'
+'2820 - 2841, <Location> : Appomattox Courthouse' == '<NULL>'
+'3049 - 3062, <Location> : Atlantic City' == '<NULL>'
+'3312 - 3325, <Location> : Atlantic City' == '<NULL>'
+'3440 - 3450, <Location> : New Jersey' == '<NULL>'
+'3865 - 3878, <Location> : Atlantic City' == '<NULL>'
+'3899 - 3915, <Location> : West Jersey Road' == '<NULL>'
+'3956 - 3964, <Location> : Atlantic' == '<NULL>'
+'4052 - 4064, <Location> : Reading Road' == '<NULL>'
+'4151 - 4158, <Location> : Reading' == '<NULL>'
+'4356 - 4363, <Location> : Reading' == '<NULL>'
+'4383 - 4395, <Location> : Philadelphia' == '<NULL>'
+'4555 - 4566, <Location> : West Jersey' == '<NULL>'
+'4671 - 4678, <Location> : Reading' == '<NULL>'
+'4819 - 4826, <Location> : Reading' == '<NULL>'
+'4968 - 4981, <Location> : Atlantic City' == '<NULL>'
+'5976 - 5991, <Location> : Excursion House' == '<NULL>'
+'6165 - 6180, <Location> : Excursion House' == '<NULL>'
+'6328 - 6337, <Location> : Bridgeton' == '<NULL>'
+'6342 - 6347, <Location> : Salem' == '<NULL>'
+'6402 - 6415, <Location> : Atlantic City' == '<NULL>'
+'6721 - 6734, <Location> : Atlantic City' == '<NULL>'
+'6765 - 6777, <Location> : Philadelphia' == '<NULL>'
+'6825 - 6838, <Location> : Atlantic City' == '<NULL>'
+'7150 - 7157, <Location> : Reading' == '<NULL>'
+'7662 - 7669, <Location> : Reading' == '<NULL>'
+'7739 - 7750, <Location> : West Jersey' == '<NULL>'
+'7946 - 7957, <Location> : West Jersey' == '<NULL>'
+'8001 - 8008, <Location> : Reading' == '<NULL>'
+'8212 - 8219, <Location> : Reading' == '<NULL>'
+'8625 - 8641, <Location> : Reading Railroad' == '<NULL>'
+'9281 - 9303, <Location> : Atlantic City Railroad' == '<NULL>'
+'9461 - 9481, <Location> : West Jersey Railroad' == '<NULL>'
+'9980 - 10002, <Location> : Atlantic City Railroad' == '<NULL>'
+'10046 - 10057, <Location> : West Jersey' == '<NULL>'
+'10062 - 10070, <Location> : Seashore' == '<NULL>'
+'10294 - 10312, <Location> : Doyt Perry Stadium' == '10294 - 10312, <Org> : Doyt Perry Stadium'
+'10316 - 10329, <Location> : Bowling Green' == '<NULL>'
+'10332 - 10336, <Location> : Ohio' == '<NULL>'
+'14902 - 14908, <Location> : Europe' == '<NULL>'
+'20965 - 20972, <Location> : Remagen' == '<NULL>'
+'21063 - 21068, <Location> : Rhine' == '<NULL>'
+'21224 - 21229, <Location> : Spain' == '<NULL>'
+'23174 - 23180, <Location> : Europe' == '23146 - 23180, <Org> : United States Air Forces in Europe'
+'23331 - 23337, <Location> : Debden' == '23331 - 23337, <Person> : Debden'
+'23340 - 23347, <Location> : England' == '<NULL>'
+'23364 - 23378, <Location> : Saffron Walden' == '23364 - 23371, <Person> : Saffron'
+'23381 - 23388, <Location> : England' == '23381 - 23388, <Person> : England'
+'23408 - 23420, <Location> : Elvedon Hall' == '<NULL>'
+'23423 - 23430, <Location> : England' == '<NULL>'
+'23454 - 23461, <Location> : Trosten' == '<NULL>'
+'23464 - 23471, <Location> : England' == '<NULL>'
+'25982 - 25996, <Location> : Barrack Street' == '<NULL>'
+'26092 - 26102, <Location> : Hay Street' == '<NULL>'
+'26255 - 26265, <Location> : Hay Street' == '<NULL>'
+'26268 - 26278, <Location> : East Perth' == '<NULL>'
+'26580 - 26585, <Location> : Perth' == '<NULL>'
+'28597 - 28602, <Location> : Perth' == '<NULL>'
+'28976 - 28985, <Location> : Melbourne' == '28951 - 28995, <Org> : commentary teams in both Melbourne and Perth'
+'28990 - 28995, <Location> : Perth' == '28951 - 28995, <Org> : commentary teams in both Melbourne and Perth'
+'29200 - 29209, <Location> : Melbourne' == '<NULL>'
+'29328 - 29337, <Location> : Melbourne' == '<NULL>'
+'29352 - 29360, <Location> : Adelaide' == '<NULL>'
+'30812 - 30821, <Location> : Singapore' == '<NULL>'
+'31045 - 31054, <Location> : Singapore' == '<NULL>'
+'31256 - 31269, <Location> : South Jutland' == '<NULL>'
+'31273 - 31288, <Location> : Aabenraa County' == '<NULL>'
+'31356 - 31369, <Location> : South Jutland' == '<NULL>'
+'31507 - 31522, <Location> : Aabenraa County' == '<NULL>'
+'31622 - 31632, <Location> : Bov Parish' == '31622 - 31632, <Org> : Bov Parish'
+'31646 - 31657, <Location> : municipalit' == '<NULL>'
+'31660 - 31668, <Location> : Handewit' == '31660 - 31684, <Org> : Handewit / Hanved Parish'
+'31671 - 31684, <Location> : Hanved Parish' == '31660 - 31684, <Org> : Handewit / Hanved Parish'
+'31717 - 31732, <Location> : Kreis Flensburg' == '31717 - 31732, <Person> : Kreis Flensburg'
+'31795 - 31810, <Location> : Aabenraa County' == '<NULL>'
+'31815 - 31832, <Location> : SУИnderbor County' == '<NULL>'
+'31858 - 31883, <Location> : Aabenraa-SУИnderbor Cunty' == '<NULL>'
+'33166 - 33175, <Location> : ХФczyca' == '<NULL>'
+'33207 - 33213, <Location> : Lipscy' == '<NULL>'
+'33716 - 33723, <Location> : Marszew' == '<NULL>'
+'33848 - 33855, <Location> : Marszew' == '<NULL>'
+'34246 - 34253, <Location> : Pleszew' == '34235 - 34253, <Org> : theater in Pleszew'
+'34331 - 34337, <Location> : Karmin' == '<NULL>'
+'34569 - 34583, <Location> : Greater Poland' == '<NULL>'
+'34716 - 34723, <Location> : PoznaХ' == '<NULL>'
+'34781 - 34799, <Location> : Navarrese Pyrenees' == '<NULL>'
+'34802 - 34818, <Location> : Basque provinces' == '<NULL>'
+'35009 - 35017, <Location> : Brittany' == '<NULL>'
+'37454 - 37459, <Location> : Aisby' == '<NULL>'
+'37522 - 37527, <Location> : Asebi' == '<NULL>'
+'37588 - 37595, <Location> : Heydour' == '37588 - 37595, <Person> : Heydour'
+'37601 - 37609, <Location> : Ancaster' == '<NULL>'
+'37614 - 37622, <Location> : Grantham' == '<NULL>'
+'37625 - 37637, <Location> : Lincolnshire' == '<NULL>'
+'37664 - 37669, <Location> : Aisby' == '37664 - 37669, <Person> : Aisby'
+'37675 - 37687, <Location> : Gainsborough' == '<NULL>'
+'37899 - 37906, <Location> : Heydour' == '<NULL>'
+'37911 - 37916, <Location> : Aisby' == '<NULL>'
+'38064 - 38069, <Location> : Aisby' == '<NULL>'
+'38086 - 38091, <Location> : Azeby' == '<NULL>'
+'38100 - 38106, <Location> : Hazeby' == '<NULL>'
+'38109 - 38116, <Location> : Heydour' == '<NULL>'
+'38174 - 38180, <Location> : Haydor' == '<NULL>'
+'38183 - 38190, <Location> : Haydour' == '<NULL>'
+'38197 - 38203, <Location> : Heydor' == '<NULL>'
+'38226 - 38233, <Location> : Ontario' == '<NULL>'
+'38276 - 38283, <Location> : Ontario' == '<NULL>'
+'38326 - 38332, <Location> : Kenora' == '<NULL>'
+'38919 - 38925, <Location> : Kenora' == '<NULL>'
+'39613 - 39630, <Location> : Vasilievsky Spusk' == '<NULL>'
+'40055 - 40076, <Location> : Alfred Phillips House' == '40055 - 40070, <Person> : Alfred Phillips'
+'40248 - 40262, <Location> : Phillips House' == '<NULL>'
+'40273 - 40284, <Location> : Ford County' == '<NULL>'
+'40492 - 40498, <Location> : Paxton' == '<NULL>'
+'40501 - 40509, <Location> : Illinois' == '<NULL>'
+'41197 - 41205, <Location> : Montreal' == '<NULL>'
+'41256 - 41264, <Location> : Montreal' == '<NULL>'
+'44009 - 44017, <Location> : Montreal' == '<NULL>'
+'46698 - 46707, <Location> : Melbourne' == '<NULL>'
+'52443 - 52458, <Location> : Fort Lauderdale' == '<NULL>'
+'52461 - 52464, <Location> : Fl.' == '<NULL>'
+'52479 - 52484, <Location> : Miami' == '<NULL>'
+'52731 - 52736, <Location> : Miami' == '<NULL>'
+'52874 - 52885, <Location> : Miami Beach' == '<NULL>'
+'52905 - 52916, <Location> : South Beach' == '<NULL>'
+'52969 - 52974, <Location> : Miami' == '<NULL>'
+'53174 - 53179, <Location> : Miami' == '<NULL>'
+'53545 - 53549, <Location> : Cuba' == '<NULL>'
+'53792 - 53797, <Location> : Miami' == '<NULL>'
+'54132 - 54139, <Location> : America' == '<NULL>'
+'54480 - 54485, <Location> : Miami' == '<NULL>'
+'54757 - 54762, <Location> : Miami' == '<NULL>'
+'54995 - 55000, <Location> : Miami' == '<NULL>'
+'55163 - 55168, <Location> : Miami' == '<NULL>'
+'55214 - 55218, <Location> : L.A.' == '<NULL>'
+'55221 - 55224, <Location> : NYC' == '<NULL>'
+'55255 - 55260, <Location> : Miami' == '<NULL>'
+'55428 - 55433, <Location> : Miami' == '<NULL>'
+'57498 - 57503, <Location> : Miami' == '<NULL>'
+'58399 - 58404, <Location> : Miami' == '<NULL>'
+'58910 - 58918, <Location> : Anguilla' == '58889 - 58918, <Org> : political parties in Anguilla'
+'59077 - 59085, <Location> : Portugal' == '<NULL>'
+'59733 - 59742, <Location> : Marseille' == '<NULL>'
+'59802 - 59809, <Location> : Brabant' == '<NULL>'
+'62003 - 62012, <Location> : CompiУЈgn' == '<NULL>'
+'62015 - 62020, <Location> : Franc' == '<NULL>'
+'62063 - 62076, <Location> : Western Front' == '<NULL>'
+'62283 - 62296, <Location> : Western Front' == '<NULL>'
+'63858 - 63877, <Location> : Mass Transit System' == '<NULL>'
+'64414 - 64420, <Location> : Atwick' == '64414 - 64420, <Org> : Atwick'
+'64454 - 64464, <Location> : Holderness' == '<NULL>'
+'64499 - 64506, <Location> : England' == '<NULL>'
+'64534 - 64543, <Location> : North Sea' == '<NULL>'
+'64575 - 64582, <Location> : Hornsea' == '<NULL>'
+'64649 - 64655, <Location> : Atwick' == '<NULL>'
+'64674 - 64685, <Location> : Skirlington' == '<NULL>'
+'64723 - 64729, <Location> : Atwick' == '<NULL>'
+'64817 - 64823, <Location> : Atwick' == '<NULL>'
+'69070 - 69081, <Location> : Collingwood' == '<NULL>'
+'69178 - 69189, <Location> : Ayalon Cave' == '<NULL>'
+'69241 - 69246, <Location> : Ramla' == '<NULL>'
+'69850 - 69855, <Location> : Ramla' == '<NULL>'
+'70635 - 70645, <Location> : Baatsagaan' == '<NULL>'
+'71303 - 71310, <Location> : England' == '<NULL>'
+'71946 - 71960, <Location> : Bahus-Soubiran' == '<NULL>'
+'71993 - 71999, <Location> : Landes' == '<NULL>'
+'72039 - 72052, <Location> : Bandarlapalle' == '<NULL>'
+'72079 - 72093, <Location> : Palmaner Taluk' == '<NULL>'
+'72190 - 72204, <Location> : Deccan Plateau' == '<NULL>'
+'72262 - 72275, <Location> : Bandarlapalle' == '<NULL>'
+'72334 - 72347, <Location> : Bandarlapalle' == '<NULL>'
+'72352 - 72366, <Location> : Deccan Plateau' == '<NULL>'
+'72430 - 72439, <Location> : Tamilnadu' == '<NULL>'
+'72652 - 72666, <Location> : Deccan Plateau' == '<NULL>'
+'72910 - 72923, <Location> : Bandarlapalle' == '<NULL>'
+'73725 - 73735, <Location> : Bangladesh' == '<NULL>'
+'74930 - 74954, <Location> : National Training Centre' == '74930 - 74954, <Org> : National Training Centre'
+'74961 - 74968, <Location> : Mouchak' == '<NULL>'
+'74971 - 74978, <Location> : Gazipur' == '<NULL>'
+'75220 - 75230, <Location> : Sunnybower' == '<NULL>'
+'75234 - 75245, <Location> : Sunny Bower' == '<NULL>'
+'75275 - 75285, <Location> : Lancashire' == '<NULL>'
+'75288 - 75295, <Location> : England' == '<NULL>'
+'75348 - 75357, <Location> : Whitebirk' == '<NULL>'
+'75385 - 75393, <Location> : Hyndburn' == '<NULL>'
+'75471 - 75478, <Location> : Luoyang' == '<NULL>'
+'76077 - 76084, <Location> : Luoyang' == '<NULL>'
+'76348 - 76354, <Location> : Africa' == '<NULL>'
+'76436 - 76447, <Location> : Niger River' == '<NULL>'
+'76452 - 76461, <Location> : Lake Chad' == '<NULL>'
+'76504 - 76515, <Location> : West Africa' == '<NULL>'
+'76986 - 76993, <Location> : Tougana' == '<NULL>'
+'78479 - 78491, <Location> : Buenos Aires' == '<NULL>'
+'78568 - 78573, <Location> : Salta' == '<NULL>'
+'79338 - 79348, <Location> : Vilcapugio' == '<NULL>'
+'79416 - 79423, <Location> : PotosУ­' == '<NULL>'
+'79463 - 79474, <Location> : Condo-Condo' == '<NULL>'
+'80041 - 80055, <Location> : Virrey de Lima' == '<NULL>'
+'80379 - 80386, <Location> : PotosУ­' == '<NULL>'
+'80472 - 80479, <Location> : PotosУ­' == '80462 - 80496, <Org> : troops in PotosУ­ after Vilcapugio'
+'80993 - 81003, <Location> : California' == '<NULL>'
+'81980 - 82002, <Location> : San Francisco Bay Area' == '<NULL>'
+'82063 - 82082, <Location> : Southern California' == '<NULL>'
+'82410 - 82421, <Location> : Santa Clara' == '<NULL>'
+'82459 - 82470, <Location> : Santa Clara' == '<NULL>'
+'82473 - 82483, <Location> : California' == '<NULL>'
+'85888 - 85894, <Location> : Island' == '<NULL>'
+'86711 - 86723, <Location> : Shark Island' == '<NULL>'
+'88834 - 88845, <Location> : Whale Beach' == '<NULL>'
+'92357 - 92363, <Location> : Tahiti' == '<NULL>'
+'92874 - 92886, <Location> : Shark Island' == '<NULL>'
+'93153 - 93159, <Location> : Hawaii' == '<NULL>'
+'93163 - 93171, <Location> : Pipeline' == '<NULL>'
+'93403 - 93409, <Location> : Europe' == '<NULL>'
+'93426 - 93439, <Location> : South America' == '<NULL>'
+'93540 - 93546, <Location> : Europe' == '<NULL>'
+'93957 - 93968, <Location> : North Shore' == '<NULL>'
+'93972 - 93976, <Location> : Oahu' == '<NULL>'
+'94106 - 94112, <Location> : Hawaii' == '<NULL>'
+'94403 - 94415, <Location> : KopaФki Rit' == '<NULL>'
+'94433 - 94440, <Location> : Baranja' == '<NULL>'
+'94504 - 94510, <Location> : Osijek' == '<NULL>'
+'94927 - 94939, <Location> : Europe Belje' == '94882 - 94939, <Org> : industrial-agricultural cooperative farms in Europe Belje'
+'94943 - 94955, <Location> : KopaФki Rit' == '<NULL>'
+'94992 - 94997, <Location> : Drava' == '<NULL>'
+'95006 - 95012, <Location> : Danube' == '<NULL>'
+'95065 - 95071, <Location> : Europe' == '<NULL>'
+'95088 - 95092, <Location> : Mece' == '<NULL>'
+'95117 - 95129, <Location> : KopaФki Rit' == '<NULL>'
+'95311 - 95316, <Location> : Tilst' == '<NULL>'
+'96257 - 96264, <Location> : Houston' == '<NULL>'
+'96298 - 96303, <Location> : Texas' == '<NULL>'
+'96628 - 96633, <Location> : Texas' == '<NULL>'
+'97839 - 97844, <Location> : Texas' == '<NULL>'
+'98001 - 98006, <Location> : Texas' == '<NULL>'
+'98204 - 98209, <Location> : Texas' == '<NULL>'
+'98218 - 98226, <Location> : Arkansas' == '<NULL>'
+'99735 - 99741, <Location> : Boston' == '<NULL>'
+'100016 - 100022, <Location> : Boston' == '<NULL>'
+'101065 - 101086, <Location> : Diocese of Sioux City' == '<NULL>'
+'101727 - 101737, <Location> : Bontnewydd' == '<NULL>'
+'101878 - 101888, <Location> : Bontnewydd' == '<NULL>'
+'101932 - 101942, <Location> : LУД Eifion' == '<NULL>'
+'102828 - 102835, <Location> : Ontario' == '<NULL>'
+'102867 - 102875, <Location> : Brampton' == '<NULL>'
+'103242 - 103258, <Location> : WУЖrlitze Winkel' == '<NULL>'
+'103411 - 103443, <Location> : Portland and Ogdensburg Railroad' == '<NULL>'
+'103511 - 103516, <Location> : Maine' == '<NULL>'
+'103522 - 103535, <Location> : St. Johnsbury' == '103522 - 103535, <Person> : St. Johnsbury'
+'103578 - 103588, <Location> : Saco River' == '<NULL>'
+'103592 - 103596, <Location> : B&SR' == '103592 - 103596, <Org> : B&SR'
+'104052 - 104060, <Location> : Bridgton' == '<NULL>'
+'104078 - 104082, <Location> : B&SR' == '<NULL>'
+'104203 - 104216, <Location> : Hancock Brook' == '<NULL>'
+'104307 - 104315, <Location> : Harrison' == '<NULL>'
+'104498 - 104502, <Location> : B&SR' == '<NULL>'
+'104552 - 104569, <Location> : Bridgton Junction' == '<NULL>'
+'104573 - 104581, <Location> : Bridgton' == '<NULL>'
+'104618 - 104622, <Location> : 1907' == '<NULL>'
+'104626 - 104630, <Location> : 1910' == '<NULL>'
+'104638 - 104660, <Location> : Maine Central Railroad' == '<NULL>'
+'104684 - 104688, <Location> : B&SR' == '<NULL>'
+'104780 - 104788, <Location> : Harrison' == '<NULL>'
+'104792 - 104809, <Location> : Bridgton Junction' == '<NULL>'
+'104839 - 104847, <Location> : Harrison' == '<NULL>'
+'104884 - 104892, <Location> : Harrison' == '<NULL>'
+'105483 - 105488, <Location> : Maine' == '<NULL>'
+'105566 - 105574, <Location> : Bridgton' == '<NULL>'
+'105632 - 105636, <Location> : B&SR' == '<NULL>'
+'105660 - 105668, <Location> : Bridgton' == '<NULL>'
+'105673 - 105681, <Location> : Harrison' == '<NULL>'
+'105705 - 105713, <Location> : Harrison' == '<NULL>'
+'105874 - 105879, <Location> : Maine' == '<NULL>'
+'105883 - 105887, <Location> : B&SR' == '<NULL>'
+'106319 - 106323, <Location> : B&SR' == '<NULL>'
+'106399 - 106416, <Location> : Bridgton Junction' == '<NULL>'
+'106578 - 106582, <Location> : B&SR' == '<NULL>'
+'106857 - 106861, <Location> : B&SR' == '<NULL>'
+'107151 - 107164, <Location> : Hancock Brook' == '<NULL>'
+'107208 - 107222, <Location> : Rankin 's Mill' == '<NULL>'
+'107407 - 107418, <Location> : Barker pond' == '<NULL>'
+'107554 - 107563, <Location> : Twin Lake' == '<NULL>'
+'107704 - 107715, <Location> : West Sebago' == '107704 - 107715, <Org> : West Sebago'
+'107838 - 107850, <Location> : Hancock Pond' == '<NULL>'
+'107880 - 107892, <Location> : Hancock Pond' == '<NULL>'
+'107897 - 107901, <Location> : B&SR' == '<NULL>'
+'108250 - 108264, <Location> : South Bridgton' == '<NULL>'
+'108418 - 108431, <Location> : Willett Brook' == '<NULL>'
+'108451 - 108462, <Location> : Sandy Creek' == '<NULL>'
+'108539 - 108547, <Location> : Bridgton' == '<NULL>'
+'108606 - 108611, <Location> : Maine' == '<NULL>'
+'108689 - 108697, <Location> : Harrison' == '<NULL>'
+'108702 - 108719, <Location> : Bridgton Junction' == '<NULL>'
+'108878 - 108882, <Location> : B&SR' == '108878 - 108887, <Org> : B&SR shop'
+'109122 - 109136, <Location> : North Bridgton' == '<NULL>'
+'109228 - 109236, <Location> : Harrison' == '<NULL>'
+'109665 - 109673, <Location> : Bridgton' == '<NULL>'
+'110149 - 110154, <Location> : Maine' == '<NULL>'
+'110494 - 110499, <Location> : Maine' == '<NULL>'
+'110551 - 110555, <Location> : B&SR' == '<NULL>'
+'110866 - 110871, <Location> : Maine' == '<NULL>'
+'110949 - 110954, <Location> : Maine' == '<NULL>'
+'111390 - 111397, <Location> : Burnaby' == '<NULL>'
+'111435 - 111444, <Location> : Vancouver' == '<NULL>'
+'111816 - 111832, <Location> : British Columbia' == '<NULL>'
+'112636 - 112648, <Location> : Forbes Field' == '112636 - 112642, <Person> : Forbes'
+'114300 - 114311, <Location> : White House' == '114300 - 114311, <Org> : White House'
+'114743 - 114760, <Location> : Cal Anderson Park' == '<NULL>'
+'114805 - 114817, <Location> : Capitol Hill' == '<NULL>'
+'114854 - 114876, <Location> : Bobby Morris Playfield' == '114854 - 114876, <Person> : Bobby Morris Playfield'
+'115068 - 115090, <Location> : Bobby Morris Playfield' == '<NULL>'
+'115165 - 115182, <Location> : Lincoln Reservoir' == '<NULL>'
+'115370 - 115388, <Location> : Broadway Playfield' == '115370 - 115388, <Person> : Broadway Playfield'
+'115432 - 115444, <Location> : Lincoln Park' == '<NULL>'
+'115448 - 115460, <Location> : West Seattle' == '<NULL>'
+'115516 - 115527, <Location> : King County' == '115516 - 115527, <Person> : King County'
+'115628 - 115650, <Location> : Lincoln Reservoir Park' == '<NULL>'
+'115706 - 115723, <Location> : Cal Anderson Park' == '<NULL>'
+'115966 - 115983, <Location> : Cal Anderson Park' == '<NULL>'
+'116003 - 116017, <Location> : East Denny Way' == '<NULL>'
+'116022 - 116033, <Location> : Nagle Place' == '116022 - 116027, <Person> : Nagle'
+'116092 - 116112, <Location> : Capitol Hill Station' == '<NULL>'
+'116116 - 116129, <Location> : Sound Transit' == '<NULL>'
+'116133 - 116148, <Location> : Link Light Rail' == '<NULL>'
+'116237 - 116247, <Location> : SУЃo Paulo' == '116237 - 116247, <Person> : SУЃo Paulo'
+'117845 - 117856, <Location> : Peace River' == '<NULL>'
+'118709 - 118714, <Location> : Kenya' == '<NULL>'
+'120065 - 120076, <Location> : Whitley Bay' == '<NULL>'
+'120250 - 120263, <Location> : North Shields' == '<NULL>'
+'120354 - 120360, <Location> : Redcar' == '<NULL>'
+'120600 - 120609, <Location> : Newcastle' == '<NULL>'
+'122741 - 122749, <Location> : New York' == '<NULL>'
+'123155 - 123161, <Location> : Europe' == '<NULL>'
+'123781 - 123794, <Location> : San Francisco' == '<NULL>'
+'126503 - 126511, <Location> : Virginia' == '<NULL>'
+'126545 - 126560, <Location> : Charlottesville' == '126538 - 126560, <Org> : bar in Charlottesville'
+'129875 - 129882, <Location> : Hayward' == '<NULL>'
+'129940 - 129955, <Location> : City Of Hayward' == '129936 - 129955, <Org> : The City Of Hayward'
+'130678 - 130685, <Location> : Chicago' == '<NULL>'
+'132418 - 132425, <Location> : Orlando' == '<NULL>'
+'134258 - 134271, <Location> : South America' == '<NULL>'
+'134389 - 134403, <Location> : Huallaga river' == '<NULL>'
+'134409 - 134414, <Location> : PerУК' == '<NULL>'
+'134511 - 134516, <Location> : PerУК' == '<NULL>'
+'135169 - 135171, <Location> : Ai' == '<NULL>'
+'135860 - 135866, <Location> : Labasa' == '<NULL>'
+'137395 - 137414, <Location> : Cherche-Midi prison' == '137395 - 137414, <Org> : Cherche-Midi prison'
+'137811 - 137816, <Location> : Timor' == '<NULL>'
+'137893 - 137902, <Location> : Eas Timor' == '<NULL>'
+'139263 - 139270, <Location> : Florida' == '<NULL>'
+'141147 - 141156, <Location> : Zandvoort' == '<NULL>'
+'141166 - 141177, <Location> : Netherlands' == '<NULL>'
+'141189 - 141198, <Location> : North Sea' == '<NULL>'
+'141252 - 141261, <Location> : Zandvoort' == '<NULL>'
+'141707 - 141724, <Location> : Circuit Zandvoort' == '<NULL>'
+'141769 - 141778, <Location> : Zandvoort' == '<NULL>'
+'142472 - 142483, <Location> : Tarzanbocht' == '<NULL>'
+'142486 - 142499, <Location> : Tarzan corner' == '142486 - 142492, <Person> : Tarzan'
+'142820 - 142833, <Location> : Tarzan Corner' == '<NULL>'
+'142847 - 142869, <Location> : Circuit Park Zandvoort' == '<NULL>'
+'143072 - 143081, <Location> : Zandvoort' == '<NULL>'
+'143503 - 143509, <Location> : Senlis' == '<NULL>'
+'143512 - 143516, <Location> : Oise' == '<NULL>'
+'143519 - 143527, <Location> : Picardie' == '<NULL>'
+'143650 - 143663, <Location> : Clarence Dock' == '143650 - 143663, <Person> : Clarence Dock'
+'143688 - 143701, <Location> : Clarence Dock' == '<NULL>'
+'143721 - 143733, <Location> : River Mersey' == '<NULL>'
+'143750 - 143767, <Location> : Port of Liverpool' == '<NULL>'
+'143869 - 143883, <Location> : Trafalgar Dock' == '<NULL>'
+'144032 - 144039, <Location> : CorrУЈz' == '<NULL>'
+'144064 - 144069, <Location> : Franc' == '<NULL>'
+'144201 - 144236, <Location> : Basingstoke and Alton Light Railway' == '<NULL>'
+'144344 - 144354, <Location> : Cliddesden' == '<NULL>'
+'144372 - 144384, <Location> : Buggleskelly' == '<NULL>'
+'144534 - 144547, <Location> : Bijeli Brijeg' == '<NULL>'
+'145339 - 145357, <Location> : Cold Spring Harbor' == '<NULL>'
+'145388 - 145399, <Location> : Long Island' == '<NULL>'
+'145502 - 145515, <Location> : Laurel Hollow' == '145502 - 145515, <Person> : Laurel Hollow'
+'146930 - 146933, <Location> : U.K' == '<NULL>'
+'147805 - 147811, <Location> : Europe' == '<NULL>'
+'148382 - 148396, <Location> : Banbury Center' == '148382 - 148396, <Org> : Banbury Center'
+'149237 - 149262, <Location> : Dolan DNA Learning Center' == '149237 - 149242, <Person> : Dolan'
+'149524 - 149538, <Location> : USP Coleman II' == '<NULL>'
+'149561 - 149568, <Location> : Florida' == '<NULL>'
+'149680 - 149691, <Location> : FCC Complex' == '<NULL>'
+'149724 - 149731, <Location> : Coleman' == '<NULL>'
+'149734 - 149741, <Location> : Florida' == '<NULL>'
+'149847 - 149851, <Location> : Bali' == '<NULL>'
+'151909 - 151920, <Location> : Connecticut' == '<NULL>'
+'152153 - 152164, <Location> : Connecticut' == '<NULL>'
+'152445 - 152452, <Location> : Vermont' == '<NULL>'
+'152482 - 152499, <Location> : Connecticut River' == '<NULL>'
+'153174 - 153196, <Location> : Cosham railway station' == '153174 - 153180, <Org> : Cosham'
+'153297 - 153304, <Location> : England' == '<NULL>'
+'153395 - 153413, <Location> : West Coastway Line' == '<NULL>'
+'153603 - 153609, <Location> : Cosham' == '<NULL>'
+'153619 - 153630, <Location> : Portchester' == '<NULL>'
+'153635 - 153642, <Location> : Fareham' == '<NULL>'
+'153742 - 153748, <Location> : Hilsea' == '<NULL>'
+'153753 - 153763, <Location> : Portsmouth' == '<NULL>'
+'153776 - 153786, <Location> : Bedhampton' == '153776 - 153786, <Org> : Bedhampton'
+'153842 - 153852, <Location> : Bedhampton' == '<NULL>'
+'153900 - 153906, <Location> : Cosham' == '<NULL>'
+'153911 - 153921, <Location> : Bedhampton' == '<NULL>'
+'153978 - 153984, <Location> : Hilsea' == '<NULL>'
+'154017 - 154027, <Location> : Portsmouth' == '<NULL>'
+'155514 - 155520, <Location> : Europe' == '<NULL>'
+'156238 - 156244, <Location> : Europe' == '<NULL>'
+'156869 - 156878, <Location> : Leicester' == '<NULL>'
+'157188 - 157195, <Location> : Montana' == '<NULL>'
+'157314 - 157331, <Location> : Pacific Northwest' == '<NULL>'
+'157394 - 157404, <Location> : California' == '<NULL>'
+'157646 - 157655, <Location> : Washingto' == '<NULL>'
+'157660 - 157666, <Location> : Oregon' == '<NULL>'
+'158420 - 158427, <Location> : Ontario' == '<NULL>'
+'158932 - 158941, <Location> : Satu Mare' == '<NULL>'
+'159080 - 159085, <Location> : Spain' == '<NULL>'
+'160942 - 160948, <Location> : Galway' == '<NULL>'
+'161032 - 161038, <Location> : Galway' == '<NULL>'
+'161363 - 161369, <Location> : Galway' == '<NULL>'
+'162863 - 162889, <Location> : Central and Eastern Europe' == '<NULL>'
+'166108 - 166117, <Location> : Davis Gym' == '<NULL>'
+'166292 - 166306, <Location> : Sojka Pavilion' == '<NULL>'
+'166405 - 166414, <Location> : Davis Gym' == '<NULL>'
+'167745 - 167753, <Location> : Bentheim' == '<NULL>'
+'167799 - 167806, <Location> : Holland' == '<NULL>'
+'168351 - 168358, <Location> : Holland' == '168351 - 168366, <Org> : Holland , where'
+'169651 - 169654, <Location> : Qld' == '<NULL>'
+'169725 - 169735, <Location> : Waikabubak' == '<NULL>'
+'170491 - 170500, <Location> : Klungkung' == '<NULL>'
+'170503 - 170507, <Location> : Bali' == '<NULL>'
+'170822 - 170831, <Location> : East Java' == '<NULL>'
+'171270 - 171278, <Location> : Surabaya' == '<NULL>'
+'171774 - 171782, <Location> : Surabaya' == '<NULL>'
+'171905 - 171908, <Location> : TIM' == '<NULL>'
+'172844 - 172852, <Location> : Den Haag' == '<NULL>'
+'174123 - 174136, <Location> : Ilocos Region' == '174123 - 174129, <Org> : Ilocos'
+'174174 - 174184, <Location> : Pangasinan' == '<NULL>'
+'174241 - 174248, <Location> : Aringay' == '<NULL>'
+'174251 - 174261, <Location> : Pangasinan' == '<NULL>'
+'174287 - 174291, <Location> : Caba' == '<NULL>'
+'174295 - 174302, <Location> : Aringay' == '<NULL>'
+'174375 - 174380, <Location> : Vigan' == '174375 - 174380, <Org> : Vigan'
+'174383 - 174393, <Location> : Ilocos Sur' == '<NULL>'
+'174476 - 174482, <Location> : Ilocos' == '<NULL>'
+'174852 - 174864, <Location> : Ilocos Norte' == '<NULL>'
+'174869 - 174876, <Location> : Cagayan' == '<NULL>'
+'174991 - 174997, <Location> : Ilocos' == '<NULL>'
+'175183 - 175188, <Location> : Vigan' == '<NULL>'
+'175795 - 175799, <Location> : Abra' == '<NULL>'
+'175857 - 175862, <Location> : Vigan' == '<NULL>'
+'175910 - 175914, <Location> : Abra' == '<NULL>'
+'176098 - 176109, <Location> : Nova Scotia' == '<NULL>'
+'176151 - 176162, <Location> : Nova Scotia' == '176151 - 176180, <Org> : Nova Scotia House of Assembly'
+'176295 - 176306, <Location> : Nova Scotia' == '<NULL>'
+'178216 - 178221, <Location> : Divar' == '<NULL>'
+'178378 - 178384, <Location> : Panjim' == '<NULL>'
+'178448 - 178455, <Location> : Old Goa' == '<NULL>'
+'178481 - 178489, <Location> : Ribandar' == '<NULL>'
+'178519 - 178524, <Location> : Narve' == '<NULL>'
+'178584 - 178589, <Location> : Divar' == '178584 - 178589, <Person> : Divar'
+'178605 - 178611, <Location> : Panaji' == '<NULL>'
+'178670 - 178684, <Location> : Konkan Railway' == '<NULL>'
+'178772 - 178779, <Location> : Karmali' == '<NULL>'
+'178961 - 178964, <Location> : Goa' == '<NULL>'
+'179033 - 179048, <Location> : Island of Divar' == '<NULL>'
+'179316 - 179319, <Location> : Goa' == '<NULL>'
+'179712 - 179718, <Location> : Deccan' == '<NULL>'
+'179812 - 179822, <Location> : Vijaynagar' == '<NULL>'
+'179952 - 179957, <Location> : Narve' == '<NULL>'
+'179961 - 179969, <Location> : Bicholim' == '<NULL>'
+'180049 - 180054, <Location> : Narve' == '<NULL>'
+'180057 - 180065, <Location> : Bicholim' == '<NULL>'
+'180206 - 180211, <Location> : Divar' == '<NULL>'
+'180363 - 180368, <Location> : Divar' == '<NULL>'
+'180663 - 180671, <Location> : Bicholim' == '<NULL>'
+'180918 - 180925, <Location> : Old Goa' == '<NULL>'
+'181008 - 181015, <Location> : Old Goa' == '<NULL>'
+'181019 - 181026, <Location> : Piedade' == '<NULL>'
+'181321 - 181328, <Location> : Old Goa' == '<NULL>'
+'181346 - 181349, <Location> : Goa' == '<NULL>'
+'181352 - 181358, <Location> : Panaji' == '<NULL>'
+'181376 - 181389, <Location> : Mandovi river' == '<NULL>'
+'181479 - 181484, <Location> : Divar' == '<NULL>'
+'181775 - 181787, <Location> : Divar Island' == '<NULL>'
+'182370 - 182377, <Location> : Old Goa' == '<NULL>'
+'182624 - 182629, <Location> : Divar' == '<NULL>'
+'182700 - 182705, <Location> : Divar' == '182690 - 182705, <Org> : church of Divar'
+'185102 - 185108, <Location> : Europe' == '<NULL>'
+'187642 - 187648, <Location> : London' == '187642 - 187648, <Person> : London'
+'187676 - 187693, <Location> : Jubilaeumsausgabe' == '<NULL>'
+'188122 - 188134, <Location> : Little Falls' == '<NULL>'
+'189126 - 189132, <Location> : Munich' == '189098 - 189141, <Org> : Olympic boxing team for the Munich Olympics'
+'192074 - 192083, <Location> : Minnesota' == '<NULL>'
+'192356 - 192376, <Location> : City of Little Falls' == '<NULL>'
+'192379 - 192388, <Location> : Minnesota' == '<NULL>'
+'193189 - 193193, <Location> : Java' == '<NULL>'
+'194085 - 194093, <Location> : Neumarkt' == '<NULL>'
+'195650 - 195659, <Location> : WУМrzburg' == '<NULL>'
+'199250 - 199262, <Location> : Nazi Germany' == '<NULL>'
+'199514 - 199527, <Location> : German Europe' == '<NULL>'
+'199762 - 199769, <Location> : Brixton' == '199762 - 199769, <Org> : Brixton'
+'200045 - 200052, <Location> : Brixton' == '<NULL>'
+'200663 - 200667, <Location> : Ohio' == '<NULL>'
+'201007 - 201013, <Location> : Newark' == '<NULL>'
+'201016 - 201020, <Location> : Ohio' == '<NULL>'
+'201283 - 201299, <Location> : Bakken Formation' == '201283 - 201289, <Person> : Bakken'
+'201306 - 201322, <Location> : Elm Coulee Field' == '<NULL>'
+'201329 - 201335, <Location> : Bakken' == '<NULL>'
+'201653 - 201663, <Location> : Elm Coulee' == '<NULL>'
+'201874 - 201884, <Location> : Elm Coulee' == '<NULL>'
+'201938 - 201945, <Location> : Montana' == '<NULL>'
+'202523 - 202537, <Location> : абаВаЕаНаИаК' == '<NULL>'
+'203862 - 203869, <Location> : Bangkok' == '<NULL>'
+'203903 - 203913, <Location> : Chiang Mai' == '<NULL>'
+'204099 - 204106, <Location> : Bangkok' == '<NULL>'
+'204109 - 204119, <Location> : Chiang Mai' == '<NULL>'
+'204170 - 204180, <Location> : Chiang Mai' == '<NULL>'
+'208896 - 208911, <Location> : State Route 267' == '208896 - 208901, <Org> : State'
+'209285 - 209299, <Location> : Fairfax County' == '<NULL>'
+'209383 - 209392, <Location> : Metrorail' == '<NULL>'
+'209604 - 209613, <Location> : Metrorail' == '<NULL>'
+'209964 - 209972, <Location> : Fairmont' == '<NULL>'
+'<NULL>' == '211341 - 211348, <Location> : Russian'
+
+<!-- ++++++++++#RDF Entities Errors#+++++++++++++ -->

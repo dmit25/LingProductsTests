@@ -1,4 +1,0 @@
-processing time: 155s
-
-found issues
-service errors occured while processing whole corpus (splitted corpus processed successfully)
