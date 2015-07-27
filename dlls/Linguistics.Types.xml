@@ -1830,6 +1830,16 @@
             Actor
             </summary>
         </member>
+        <member name="F:Linguistics.Core.Enums.Semantics.SemPersonType.NameParticle">
+            <summary>
+            Particle of complex name
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Enums.Semantics.SemPersonType.ArabicProper">
+            <summary>
+            Entity contains name particles or arabic particles
+            </summary>
+        </member>
         <member name="T:Linguistics.Core.Enums.Semantics.SemPlaceType">
             <summary>
             Plave semantic types
@@ -2652,12 +2662,13 @@
             Represents CrfWord model
             </summary>
         </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.Text.CrfWord.#ctor(System.String,System.Int32,Linguistics.Core.Interfaces.CRF.Text.ICrfCharacteristicsCalculator)">
+        <member name="M:Linguistics.Core.Interfaces.CRF.Text.CrfWord.#ctor(System.String,System.Int32,Linguistics.Core.Enums.Semantics.SemanticType,Linguistics.Core.Enums.Morphology.PartOfSpeechType,Linguistics.Core.Interfaces.CRF.Text.ICrfCharacteristicsCalculator)">
             <summary>
             Creates new word
             </summary>
             <param name="value"></param>
             <param name="start"></param>
+            <param name="semantics">dictionary-based word semantic</param>
             <param name="calculator"></param>
         </member>
         <member name="M:Linguistics.Core.Interfaces.CRF.Text.CrfWord.AddNormalForm(System.String)">
@@ -2686,9 +2697,14 @@
             Normal form of word
             </summary>
         </member>
-        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.Semantic">
+        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.Semantics">
             <summary>
             Word's semantic
+            </summary>
+        </member>
+        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.PartOfSpeech">
+            <summary>
+            Word's part of speech
             </summary>
         </member>
         <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.HasCombiSemantic">
@@ -2711,9 +2727,15 @@
             List of words inside this word
             </summary>
         </member>
-        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.HasExactSemantic">
+        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.HasExactSemantics">
             <summary>
             Indicates that semantic was given according to dictionary resource
+            Or that semantic should not be changed by statistics results
+            </summary>
+        </member>
+        <member name="P:Linguistics.Core.Interfaces.CRF.Text.CrfWord.ShouldChangeSemantics">
+            <summary>
+            Flag that indicates whenever semantic should be changed
             </summary>
         </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.Text.ICrfCharacteristicsCalculator">
@@ -2721,14 +2743,136 @@
             Crf word characteristics calculator
             </summary>
         </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.Text.ICrfCharacteristicsCalculator.GenerateCharacteristics(System.String,System.Boolean@,System.Boolean@)">
+        <member name="M:Linguistics.Core.Interfaces.CRF.Text.ICrfCharacteristicsCalculator.GenerateCharacteristics(System.String,Linguistics.Core.Enums.Semantics.SemanticType,Linguistics.Core.Enums.Morphology.PartOfSpeechType,System.Boolean@,System.Boolean@)">
             <summary>
             Calculates graphematic characteristics
             </summary>
             <param name="text"></param>
+            <param name="semantic">dictionary-based text semantic</param>
+            <param name="pos">part of speech type</param>
             <param name="isNumeric">flag that indicates that given text is numeric</param>
             <param name="containsCapitals">flag that indicates that givent text contains capital letters</param>
             <returns></returns>
+        </member>
+        <member name="T:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics">
+            <summary>
+            Part of speech characteristics codes
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Undefined">
+            <summary>
+            Undefined code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Official">
+            <summary>
+            Official code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Verb">
+            <summary>
+            Verb code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Noun">
+            <summary>
+            Noun code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Adjective">
+            <summary>
+            Adjective code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Numeric">
+            <summary>
+            Numeric code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Adverb">
+            <summary>
+            Adverb code
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.PosCharacteristics.Pronoun">
+            <summary>
+            Pronoun code
+            </summary>
+        </member>
+        <member name="T:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Undefined">
+            <summary>
+            Undefined semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Time">
+            <summary>
+            Time semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Place">
+            <summary>
+            Place semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Measure">
+            <summary>
+            Measure semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Person">
+            <summary>
+            Person semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Organization">
+            <summary>
+            Organization semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Verb">
+            <summary>
+            Verb semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Service">
+            <summary>
+            Service semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Info">
+            <summary>
+            Info semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Material">
+            <summary>
+            Material semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Building">
+            <summary>
+            Building semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Transport">
+            <summary>
+            Transport semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Event">
+            <summary>
+            Event semantic
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.CRF.Text.SemanticCharacteristics.Product">
+            <summary>
+            Product semantic
+            </summary>
         </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.ICrfSentencesExtractor">
             <summary>
@@ -2764,51 +2908,6 @@
             получение списка слов
             </summary>
         </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.CrfFeatureType">
-            <summary>
-            Crf trainer feature type
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfFeatureType.Crf1D">
-            <summary>
-            1st-order tyad features.
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfFeatureType.Crf1T">
-            <summary>
-            1st-order triad features.
-            </summary>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm">
-            <summary>
-            Type of crf training algorithm 
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm.Lbfgs">
-            <summary>
-            L-BFGS batch training.
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm.L2Sgd">
-            <summary>
-            Pegasos online training.
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm.AveragedPerceptron">
-            <summary>
-            Averaged perceptron.
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm.PassiveAggressive">
-            <summary>
-            Passive aggressive
-            </summary>
-        </member>
-        <member name="F:Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm.Arow">
-            <summary>
-            Arow
-            </summary>
-        </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.Training.ICrfSentencesSerializer">
             <summary>
             Crf sentences serializer
@@ -2826,111 +2925,6 @@
             Serializes sentence to xelement
             </summary>
             <param name="sentences"></param>
-            <returns></returns>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfTrainer">
-            <summary>
-            The trainer class.
-             This class maintains a data set for training, and provides an interface
-             to various graphical models and training algorithms. The standard
-             procedure for implementing a trainer is:
-             - create a class by inheriting this class
-             - overwrite message() function to receive messages of training progress
-             - call append() to append item/label sequences to the training set
-             - call select() to specify a graphical model and an algorithm
-             - call set() to configure parameters specific to the model and algorithm
-             - call train() to start a training process with the current setting
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.Train(System.String,System.Int32)">
-            <summary>
-            Run the training algorithm.
-             This function starts the training algorithm with the data set given
-             by append() function. After starting the training process, the 
-             training algorithm invokes the virtual function message() to report
-             the progress of the training process.
-            </summary>
-            <param name="model">
-            The filename to which the trained model is stored.
-            If this value is empty, this function does not
-            write out a model file.
-            </param>
-            <param name="holdout">
-            The group number of holdout evaluation. The
-            instances with this group number will not be used
-            for training, but for holdout evaluation. Specify
-            \c -1 to use all instances for training.
-            </param>
-            <returns>The status code.</returns>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.Clear">
-            <summary>
-            Remove all instances in the data set.
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.AppendData(System.Collections.Generic.List{System.Collections.Generic.List{System.String}},System.String[],System.Int32)">
-            <summary>
-             Append an instance (item/label sequence) to the data set.
-            </summary>
-            <param name="items">The item sequence of the instance.</param>
-            <param name="types"> The label sequence of the instance. 
-                The number of elements in <paramref name="items"/> must be identical to that in <paramref name="types"/>.</param>
-            <param name="group">The group number of the instance.</param>
-            <exception cref="T:System.ArgumentException">Arguments <paramref name="items"/> and <paramref name="types"/> are invalid.</exception>
-            <exception cref="T:System.ApplicationException">Out of memory.</exception>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.Select(Linguistics.Core.Interfaces.CRF.CrfTrainerAlgorithm,Linguistics.Core.Interfaces.CRF.CrfFeatureType)">
-            <summary>
-            Selects algorithm and type of feature for this trainer
-            </summary>
-            <param name="algorithm"></param>
-            <param name="featureType"></param>
-            <returns></returns>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.GetSettings">
-            <summary>
-            Obtain the list of parameters.
-             This function returns the list of parameter names available for the
-             graphical model and training algorithm specified by select() function.
-             @return StringList  The list of parameters available for the current
-             graphical model and training algorithm.
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.GetSetting(System.String)">
-            <summary>
-            Get the value of a training parameter.
-             This function gets a parameter value for the graphical model and
-             training algorithm specified by select() function.
-             @param  name        The parameter name.
-             @return std::string The value of the parameter.
-             @throw  std::invalid_argument   The parameter is not found.
-            </summary>
-            <param name="settingName"></param>
-            <returns></returns>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.SetSetting(System.String,System.String)">
-            <summary>
-            Set a training parameter.
-             This function sets a parameter value for the graphical model and
-             training algorithm specified by select() function.
-             @param  name        The parameter name.
-             @param  value       The value of the parameter.
-             @throw  std::invalid_argument   The parameter is not found.
-            </summary>
-            <param name="settingName"></param>
-            <param name="value"></param>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainer.GetSettingDescription(System.String)">
-            <summary>
-            Get the description of a training parameter.
-             This function obtains the help message for the parameter specified
-             by the name. The graphical model and training algorithm must be
-             selected by select() function before calling this function.
-             @param  name        The parameter name.
-             @return std::string The description (help message) of the parameter.
-            </summary>
-            <param name="settingName"></param>
             <returns></returns>
         </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.Text.CrfAttribute">
@@ -3075,75 +3069,19 @@
             Inner template that is used for transformation
             </summary>
         </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfConverterCreator">
-            <summary>
-            Crf converter creator interface
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfConverterCreator.Create(System.String)">
-            <summary>
-            Creates converter using file with name <paramref name="templateFileName"/> from NER folder
-            </summary>
-            <param name="templateFileName"></param>
-            <returns></returns>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfProcessor">
-            <summary>
-            Invokes crf suit algo to process input string and returns structured string with output
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfProcessor.Process(System.Collections.Generic.List{System.Collections.Generic.List{System.String}})">
-            <summary>
-            Starts crf suite processing with defined <paramref name="inputCrfString"/>
-            </summary>
-            <param name="inputCrfString"></param>
-            <returns>structured strings list, each string - token info</returns>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfProcessorCreator">
-            <summary>
-            Crf processor creator
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfProcessorCreator.Create(System.String)">
-            <summary>
-            Creates new crf processor based on defined model(<paramref name="pathToModel"/>)
-            </summary>
-            <param name="pathToModel"></param>
-            <returns></returns>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfTemplateCreator">
-            <summary>
-            Crf template loader interface
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTemplateCreator.Create(System.String)">
-            <summary>
-            Returns crf template read from file
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfTemplateValidator">
-            <summary>
-            Crf template consistency validator
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTemplateValidator.Validate(Linguistics.Core.Interfaces.CRF.Text.CrfTemplate)">
-            <summary>
-            Checks that crf template is valid
-            </summary>
-            <param name="template"></param>
-        </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.ICrfTextWorker">
             <summary>
             Parses text into intermadiate model of text
             </summary>
         </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTextWorker.CreateWord(System.String,System.Int32)">
+        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTextWorker.CreateWord(System.String,System.Int32,Linguistics.Core.Enums.Semantics.SemanticType,Linguistics.Core.Enums.Morphology.PartOfSpeechType)">
             <summary>
             Creates crf word based on string
             </summary>
             <param name="text"></param>
             <param name="position">Absolute position of word in sentence</param>
+            <param name="semantics">found in morpho-sem dictionary word semantics</param>
+            <param name="pos">word's part of speech</param>
             <returns></returns>
         </member>
         <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTextWorker.CreateSentence">
@@ -3157,12 +3095,11 @@
             Creates named Entities recognizer for srecified model and template
             </summary>
         </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.INamedEntitiesProcessorCreator.Create(System.String,System.String)">
+        <member name="M:Linguistics.Core.Interfaces.CRF.INamedEntitiesProcessorCreator.Create(System.String)">
             <summary>
             Create recognizer based on model and template
             </summary>
             <param name="pathToModel"></param>
-            <param name="pathToTemplate">if null default template name will be used</param>
             <returns></returns>
         </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.INamedEntitiesProcessor">
@@ -3256,31 +3193,10 @@
             Составные части N-граммы
             </summary>
         </member>
-        <member name="T:Linguistics.Core.Interfaces.CRF.ICrfTrainerProvider">
-            <summary>
-            Crf trainer provider 
-            </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.ICrfTrainerProvider.GetTrainer">
-            <summary>
-            Returns crf trainer;
-            </summary>
-            <returns></returns>
-        </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.Training.ICrfTrainingManager">
             <summary>
             Crf training process manager
             </summary>
-        </member>
-        <member name="M:Linguistics.Core.Interfaces.CRF.Training.ICrfTrainingManager.Train(Linguistics.Core.Interfaces.CRF.ICrfTrainer,System.Collections.Generic.List{Linguistics.Core.Interfaces.CRF.Training.NerTextEntity},System.Collections.Generic.List{Linguistics.Core.Interfaces.CRF.Text.CrfSentence},System.String)">
-            <summary>
-            Trains <paramref name="trainer"/> using <paramref name="modelEntities"/>
-            result should be outputed into <paramref name="outputPath"/>
-            </summary>
-            <param name="trainer"></param>
-            <param name="modelEntities"></param>
-            <param name="sentences">crf sentences containing </param>
-            <param name="outputPath">path where trained data should be </param>
         </member>
         <member name="M:Linguistics.Core.Interfaces.CRF.Training.ICrfTrainingManager.SetSentenceSemantics(Linguistics.Core.Interfaces.CRF.Text.CrfSentence,System.Collections.Generic.List{Linguistics.Core.Interfaces.CRF.Training.NerTextEntity})">
             <summary>
@@ -3302,6 +3218,14 @@
             </summary>
             <param name="modelEntities"></param>
             <returns></returns>
+        </member>
+        <member name="M:Linguistics.Core.Interfaces.CRF.Training.ICrfTrainingManager.ExtractCrfInputData(System.String,System.String,System.String)">
+            <summary>
+            Writes rf input data to <paramref name="pathToOutputFile"/> using <paramref name="pathToCorpusFile"/> corpus and prepared <paramref name="pathToSentsFile"/> extracted sents
+            </summary>
+            <param name="pathToCorpusFile"></param>
+            <param name="pathToSentsFile"></param>
+            <param name="pathToOutputFile"></param>
         </member>
         <member name="T:Linguistics.Core.Interfaces.CRF.Training.ICorpusParser">
             <summary>
@@ -7495,6 +7419,21 @@
             Stop collocations hashtable searcher
             </summary>
         </member>
+        <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.WhiteCollocations">
+            <summary>
+            Allowed collocations hashtable searcher
+            </summary>
+        </member>
+        <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.AdjDeletedFromPersonNames">
+            <summary>
+            Adjectives excluded from Person Name Value
+            </summary>
+        </member>
+        <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.AllowedPN">
+            <summary>
+            Person names which can be employed with adjectives from the list AdjDeletedFromPersonNames
+            </summary>
+        </member>
         <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.EntityWords">
             <summary>
             Stop entity words hastable searcher
@@ -7510,9 +7449,19 @@
             Stop adjectives hastable searcher
             </summary>
         </member>
+        <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.NeverThemeWords">
+            <summary>
+            Geographic words hastable searcher
+            </summary>
+        </member>
         <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.GeographicWords">
             <summary>
             Geographic words hastable searcher
+            </summary>
+        </member>
+        <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.GeoProfs">
+            <summary>
+            Geo profs hastable searcher
             </summary>
         </member>
         <member name="P:Linguistics.Core.Interfaces.Resources.IStopDictionariesSet.Profile">
@@ -7650,6 +7599,21 @@
             Collocations collection name
             </summary>
         </member>
+        <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.WhiteCollocations">
+            <summary>
+            Collocations collection name
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.AdjDeletedFromPersonNames">
+            <summary>
+            Adjectives deleted from person name value
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.AllowedPN">
+            <summary>
+            Adjectives allowed only with ORG
+            </summary>
+        </member>
         <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.EntityWords">
             <summary>
             EntityWords collection name
@@ -7665,7 +7629,17 @@
             adjectives collection name
             </summary>
         </member>
+        <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.NeverThemeWords">
+            <summary>
+            Adjectives allowed only with ORG
+            </summary>
+        </member>
         <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.GeographicWords">
+            <summary>
+            geo collection name
+            </summary>
+        </member>
+        <member name="F:Linguistics.Core.Interfaces.Resources.ModulesResx.Filtering.GeoProfs">
             <summary>
             geo collection name
             </summary>
